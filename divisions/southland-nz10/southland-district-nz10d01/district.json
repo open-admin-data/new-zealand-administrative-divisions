@@ -1,0 +1,45 @@
+{
+  "id": "NZ10D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Southland District",
+    "en": "Southland District",
+    "slug": "southland-district-nz10d01"
+  },
+  "code": {
+    "id": "NZ10D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ10",
+    "level": 1,
+    "name": {
+      "local": "Southland",
+      "en": "Southland",
+      "slug": "southland-nz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-45.617",
+    "lon": "167.799"
+  },
+  "metadata": {},
+  "source": {}
+}

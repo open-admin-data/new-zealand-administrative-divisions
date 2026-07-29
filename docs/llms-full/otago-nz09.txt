@@ -1,0 +1,29 @@
+# Otago — New Zealand Administrative Divisions
+
+> 4 districts
+> Code: NZ09
+> Coordinates: -45.745, 169.859
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Central Otago District
+
+Code: NZ09D01, Coordinates: -45.155, 169.607
+
+
+### Clutha District
+
+Code: NZ09D04, Coordinates: -46.131, 169.547
+
+
+### Dunedin City
+
+Code: NZ09D03, Coordinates: -45.73, 170.259
+
+
+### Queenstown-Lakes District
+
+Code: NZ09D02, Coordinates: -44.742, 168.8
+
+

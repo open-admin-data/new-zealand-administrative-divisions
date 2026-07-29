@@ -1,0 +1,45 @@
+{
+  "id": "NZ13D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waikato District",
+    "en": "Waikato District",
+    "slug": "waikato-district-nz13d03"
+  },
+  "code": {
+    "id": "NZ13D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ13",
+    "level": 1,
+    "name": {
+      "local": "Waikato",
+      "en": "Waikato",
+      "slug": "waikato-nz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.482",
+    "lon": "175.066"
+  },
+  "metadata": {},
+  "source": {}
+}

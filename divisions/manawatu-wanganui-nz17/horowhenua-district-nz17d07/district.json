@@ -1,0 +1,45 @@
+{
+  "id": "NZ17D07",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Horowhenua District",
+    "en": "Horowhenua District",
+    "slug": "horowhenua-district-nz17d07"
+  },
+  "code": {
+    "id": "NZ17D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ17",
+    "level": 1,
+    "name": {
+      "local": "Manawatu-Wanganui",
+      "en": "Manawatu-Wanganui",
+      "slug": "manawatu-wanganui-nz17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.574",
+    "lon": "175.355"
+  },
+  "metadata": {},
+  "source": {}
+}

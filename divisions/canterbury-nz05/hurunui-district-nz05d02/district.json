@@ -1,0 +1,45 @@
+{
+  "id": "NZ05D02",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hurunui District",
+    "en": "Hurunui District",
+    "slug": "hurunui-district-nz05d02"
+  },
+  "code": {
+    "id": "NZ05D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ05",
+    "level": 1,
+    "name": {
+      "local": "Canterbury",
+      "en": "Canterbury",
+      "slug": "canterbury-nz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-42.726",
+    "lon": "172.676"
+  },
+  "metadata": {},
+  "source": {}
+}

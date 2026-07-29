@@ -1,0 +1,45 @@
+{
+  "id": "NZ03D02",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Grey District",
+    "en": "Grey District",
+    "slug": "grey-district-nz03d02"
+  },
+  "code": {
+    "id": "NZ03D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ03",
+    "level": 1,
+    "name": {
+      "local": "West Coast",
+      "en": "West Coast",
+      "slug": "west-coast-nz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-nz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-42.509",
+    "lon": "171.573"
+  },
+  "metadata": {},
+  "source": {}
+}

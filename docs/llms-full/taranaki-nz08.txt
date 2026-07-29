@@ -1,0 +1,24 @@
+# Taranaki — New Zealand Administrative Divisions
+
+> 3 districts
+> Code: NZ08
+> Coordinates: -39.318, 174.218
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### New Plymouth District
+
+Code: NZ08D03, Coordinates: -39.114, 174.332
+
+
+### South Taranaki District
+
+Code: NZ08D02, Coordinates: -39.594, 174.578
+
+
+### Stratford District
+
+Code: NZ08D01, Coordinates: -39.24, 174.63
+
+

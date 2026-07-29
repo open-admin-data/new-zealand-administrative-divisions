@@ -1,0 +1,33 @@
+{
+  "id": "NZ05",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Canterbury",
+    "en": "Canterbury",
+    "slug": "canterbury-nz05"
+  },
+  "code": {
+    "id": "NZ05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-43.632",
+    "lon": "171.638"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/canterbury-nz05/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

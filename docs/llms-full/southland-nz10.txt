@@ -1,0 +1,24 @@
+# Southland — New Zealand Administrative Divisions
+
+> 3 districts
+> Code: NZ10
+> Coordinates: -45.633, 167.504
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Gore District
+
+Code: NZ10D02, Coordinates: -46.087, 168.966
+
+
+### Invercargill City
+
+Code: NZ10D03, Coordinates: -46.432, 168.402
+
+
+### Southland District
+
+Code: NZ10D01, Coordinates: -45.617, 167.799
+
+

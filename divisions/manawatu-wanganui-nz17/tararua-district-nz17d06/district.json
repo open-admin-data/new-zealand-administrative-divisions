@@ -1,0 +1,45 @@
+{
+  "id": "NZ17D06",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tararua District",
+    "en": "Tararua District",
+    "slug": "tararua-district-nz17d06"
+  },
+  "code": {
+    "id": "NZ17D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ17",
+    "level": 1,
+    "name": {
+      "local": "Manawatu-Wanganui",
+      "en": "Manawatu-Wanganui",
+      "slug": "manawatu-wanganui-nz17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.394",
+    "lon": "176.102"
+  },
+  "metadata": {},
+  "source": {}
+}

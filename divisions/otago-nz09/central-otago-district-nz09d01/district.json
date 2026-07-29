@@ -1,0 +1,45 @@
+{
+  "id": "NZ09D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Central Otago District",
+    "en": "Central Otago District",
+    "slug": "central-otago-district-nz09d01"
+  },
+  "code": {
+    "id": "NZ09D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ09",
+    "level": 1,
+    "name": {
+      "local": "Otago",
+      "en": "Otago",
+      "slug": "otago-nz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-45.155",
+    "lon": "169.607"
+  },
+  "metadata": {},
+  "source": {}
+}

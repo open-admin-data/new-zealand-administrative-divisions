@@ -1,0 +1,45 @@
+{
+  "id": "NZ14D06",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Masterton District",
+    "en": "Masterton District",
+    "slug": "masterton-district-nz14d06"
+  },
+  "code": {
+    "id": "NZ14D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ14",
+    "level": 1,
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-nz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.937",
+    "lon": "175.925"
+  },
+  "metadata": {},
+  "source": {}
+}

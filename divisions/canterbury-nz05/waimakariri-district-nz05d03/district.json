@@ -1,0 +1,45 @@
+{
+  "id": "NZ05D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waimakariri District",
+    "en": "Waimakariri District",
+    "slug": "waimakariri-district-nz05d03"
+  },
+  "code": {
+    "id": "NZ05D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ05",
+    "level": 1,
+    "name": {
+      "local": "Canterbury",
+      "en": "Canterbury",
+      "slug": "canterbury-nz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-43.239",
+    "lon": "172.239"
+  },
+  "metadata": {},
+  "source": {}
+}

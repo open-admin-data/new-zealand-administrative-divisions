@@ -1,0 +1,182 @@
+[
+  {
+    "id": "NZ07D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Hawke's Bay District",
+      "en": "Central Hawke's Bay District",
+      "slug": "central-hawke-s-bay-district-nz07d04"
+    },
+    "code": {
+      "id": "NZ07D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.016",
+      "lon": "176.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ07D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hastings District",
+      "en": "Hastings District",
+      "slug": "hastings-district-nz07d02"
+    },
+    "code": {
+      "id": "NZ07D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.357",
+      "lon": "176.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ07D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Napier City",
+      "en": "Napier City",
+      "slug": "napier-city-nz07d03"
+    },
+    "code": {
+      "id": "NZ07D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.52",
+      "lon": "176.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ07D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wairoa District",
+      "en": "Wairoa District",
+      "slug": "wairoa-district-nz07d01"
+    },
+    "code": {
+      "id": "NZ07D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.868",
+      "lon": "177.171"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

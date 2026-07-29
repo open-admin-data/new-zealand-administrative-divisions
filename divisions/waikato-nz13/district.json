@@ -1,0 +1,452 @@
+[
+  {
+    "id": "NZ13D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hamilton City",
+      "en": "Hamilton City",
+      "slug": "hamilton-city-nz13d05"
+    },
+    "code": {
+      "id": "NZ13D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.771",
+      "lon": "175.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hauraki District",
+      "en": "Hauraki District",
+      "slug": "hauraki-district-nz13d02"
+    },
+    "code": {
+      "id": "NZ13D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.314",
+      "lon": "175.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Matamata-Piako District",
+      "en": "Matamata-Piako District",
+      "slug": "matamata-piako-district-nz13d04"
+    },
+    "code": {
+      "id": "NZ13D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.673",
+      "lon": "175.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Otorohanga District",
+      "en": "Otorohanga District",
+      "slug": "otorohanga-district-nz13d07"
+    },
+    "code": {
+      "id": "NZ13D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.197",
+      "lon": "175.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D08",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Waikato District",
+      "en": "South Waikato District",
+      "slug": "south-waikato-district-nz13d08"
+    },
+    "code": {
+      "id": "NZ13D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.195",
+      "lon": "175.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D10",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taupo District",
+      "en": "Taupo District",
+      "slug": "taupo-district-nz13d10"
+    },
+    "code": {
+      "id": "NZ13D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.811",
+      "lon": "175.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thames-Coromandel District",
+      "en": "Thames-Coromandel District",
+      "slug": "thames-coromandel-district-nz13d01"
+    },
+    "code": {
+      "id": "NZ13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.043",
+      "lon": "175.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waikato District",
+      "en": "Waikato District",
+      "slug": "waikato-district-nz13d03"
+    },
+    "code": {
+      "id": "NZ13D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.482",
+      "lon": "175.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waipa District",
+      "en": "Waipa District",
+      "slug": "waipa-district-nz13d06"
+    },
+    "code": {
+      "id": "NZ13D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.983",
+      "lon": "175.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D09",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waitomo District",
+      "en": "Waitomo District",
+      "slug": "waitomo-district-nz13d09"
+    },
+    "code": {
+      "id": "NZ13D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.43",
+      "lon": "174.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

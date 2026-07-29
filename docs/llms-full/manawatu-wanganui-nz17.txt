@@ -1,0 +1,44 @@
+# Manawatu-Wanganui — New Zealand Administrative Divisions
+
+> 7 districts
+> Code: NZ17
+> Coordinates: -39.855, 175.539
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Horowhenua District
+
+Code: NZ17D07, Coordinates: -40.574, 175.355
+
+
+### Manawatu District
+
+Code: NZ17D04, Coordinates: -40.124, 175.697
+
+
+### Palmerston North City
+
+Code: NZ17D05, Coordinates: -40.382, 175.64
+
+
+### Rangitikei District
+
+Code: NZ17D03, Coordinates: -39.723, 175.669
+
+
+### Ruapehu District
+
+Code: NZ17D01, Coordinates: -39.111, 175.327
+
+
+### Tararua District
+
+Code: NZ17D06, Coordinates: -40.394, 176.102
+
+
+### Whanganui District
+
+Code: NZ17D02, Coordinates: -39.762, 175.134
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "NZ01D02",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Whangarei District",
+    "en": "Whangarei District",
+    "slug": "whangarei-district-nz01d02"
+  },
+  "code": {
+    "id": "NZ01D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ01",
+    "level": 1,
+    "name": {
+      "local": "Northland",
+      "en": "Northland",
+      "slug": "northland-nz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ01",
+      "level": 1,
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-35.696",
+    "lon": "174.208"
+  },
+  "metadata": {},
+  "source": {}
+}

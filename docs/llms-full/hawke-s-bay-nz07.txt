@@ -1,0 +1,29 @@
+# Hawke&#39;s Bay — New Zealand Administrative Divisions
+
+> 4 districts
+> Code: NZ07
+> Coordinates: -39.532, 176.763
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Central Hawke&#39;s Bay District
+
+Code: NZ07D04, Coordinates: -40.016, 176.527
+
+
+### Hastings District
+
+Code: NZ07D02, Coordinates: -39.357, 176.588
+
+
+### Napier City
+
+Code: NZ07D03, Coordinates: -39.52, 176.88
+
+
+### Wairoa District
+
+Code: NZ07D01, Coordinates: -38.868, 177.171
+
+

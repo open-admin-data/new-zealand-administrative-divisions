@@ -1,0 +1,19 @@
+# Data from Open Admin Data (https://openadmindata.org/nz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/new-zealand-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+NZ01,1,Region,Region,Northland,Northland,northland-nz01,NZ01,,,,,,3,,-35.363,173.761,https://openadmindata.org/nz/regions/northland-nz01/
+NZ02,1,Region,Region,Nelson,Nelson,nelson-nz02,NZ02,,,,,,1,,-41.104,173.414,https://openadmindata.org/nz/regions/nelson-nz02/
+NZ03,1,Region,Region,West Coast,West Coast,west-coast-nz03,NZ03,,,,,,3,,-42.324,171.531,https://openadmindata.org/nz/regions/west-coast-nz03/
+NZ04,1,Region,Region,Bay of Plenty,Bay of Plenty,bay-of-plenty-nz04,NZ04,,,,,,7,,-38.089,176.88,https://openadmindata.org/nz/regions/bay-of-plenty-nz04/
+NZ05,1,Region,Region,Canterbury,Canterbury,canterbury-nz05,NZ05,,,,,,10,,-43.632,171.638,https://openadmindata.org/nz/regions/canterbury-nz05/
+NZ06,1,Region,Region,Marlborough,Marlborough,marlborough-nz06,NZ06,,,,,,1,,-41.448,173.932,https://openadmindata.org/nz/regions/marlborough-nz06/
+NZ07,1,Region,Region,Hawke's Bay,Hawke's Bay,hawke-s-bay-nz07,NZ07,,,,,,4,,-39.532,176.763,https://openadmindata.org/nz/regions/hawke-s-bay-nz07/
+NZ08,1,Region,Region,Taranaki,Taranaki,taranaki-nz08,NZ08,,,,,,3,,-39.318,174.218,https://openadmindata.org/nz/regions/taranaki-nz08/
+NZ09,1,Region,Region,Otago,Otago,otago-nz09,NZ09,,,,,,4,,-45.745,169.859,https://openadmindata.org/nz/regions/otago-nz09/
+NZ10,1,Region,Region,Southland,Southland,southland-nz10,NZ10,,,,,,3,,-45.633,167.504,https://openadmindata.org/nz/regions/southland-nz10/
+NZ11,1,Region,Region,Chatham Islands,Chatham Islands,chatham-islands-nz11,NZ11,,,,,,1,,-44.078,-176.323,https://openadmindata.org/nz/regions/chatham-islands-nz11/
+NZ12,1,Region,Region,Tasman,Tasman,tasman-nz12,NZ12,,,,,,1,,-40.743,172.845,https://openadmindata.org/nz/regions/tasman-nz12/
+NZ13,1,Region,Region,Waikato,Waikato,waikato-nz13,NZ13,,,,,,10,,-37.878,175.238,https://openadmindata.org/nz/regions/waikato-nz13/
+NZ14,1,Region,Region,Wellington,Wellington,wellington-nz14,NZ14,,,,,,8,,-41.281,175.329,https://openadmindata.org/nz/regions/wellington-nz14/
+NZ15,1,Region,Region,Gisborne,Gisborne,gisborne-nz15,NZ15,,,,,,1,,-38.34,178.198,https://openadmindata.org/nz/regions/gisborne-nz15/
+NZ16,1,Region,Region,Auckland,Auckland,auckland-nz16,NZ16,,,,,,1,,-36.716,174.685,https://openadmindata.org/nz/regions/auckland-nz16/
+NZ17,1,Region,Region,Manawatu-Wanganui,Manawatu-Wanganui,manawatu-wanganui-nz17,NZ17,,,,,,7,,-39.855,175.539,https://openadmindata.org/nz/regions/manawatu-wanganui-nz17/

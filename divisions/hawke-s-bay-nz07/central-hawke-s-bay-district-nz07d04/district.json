@@ -1,0 +1,45 @@
+{
+  "id": "NZ07D04",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Central Hawke's Bay District",
+    "en": "Central Hawke's Bay District",
+    "slug": "central-hawke-s-bay-district-nz07d04"
+  },
+  "code": {
+    "id": "NZ07D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ07",
+    "level": 1,
+    "name": {
+      "local": "Hawke's Bay",
+      "en": "Hawke's Bay",
+      "slug": "hawke-s-bay-nz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.016",
+    "lon": "176.527"
+  },
+  "metadata": {},
+  "source": {}
+}

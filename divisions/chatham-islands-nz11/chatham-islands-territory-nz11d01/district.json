@@ -1,0 +1,45 @@
+{
+  "id": "NZ11D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chatham Islands Territory",
+    "en": "Chatham Islands Territory",
+    "slug": "chatham-islands-territory-nz11d01"
+  },
+  "code": {
+    "id": "NZ11D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ11",
+    "level": 1,
+    "name": {
+      "local": "Chatham Islands",
+      "en": "Chatham Islands",
+      "slug": "chatham-islands-nz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ11",
+      "level": 1,
+      "name": {
+        "local": "Chatham Islands",
+        "en": "Chatham Islands",
+        "slug": "chatham-islands-nz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-44.045",
+    "lon": "-176.578"
+  },
+  "metadata": {},
+  "source": {}
+}

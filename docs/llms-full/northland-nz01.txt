@@ -1,0 +1,24 @@
+# Northland — New Zealand Administrative Divisions
+
+> 3 districts
+> Code: NZ01
+> Coordinates: -35.363, 173.761
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Far North District
+
+Code: NZ01D01, Coordinates: -35.385, 173.835
+
+
+### Kaipara District
+
+Code: NZ01D03, Coordinates: -35.915, 173.92
+
+
+### Whangarei District
+
+Code: NZ01D02, Coordinates: -35.696, 174.208
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "NZ03D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Westland District",
+    "en": "Westland District",
+    "slug": "westland-district-nz03d03"
+  },
+  "code": {
+    "id": "NZ03D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ03",
+    "level": 1,
+    "name": {
+      "local": "West Coast",
+      "en": "West Coast",
+      "slug": "west-coast-nz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-nz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-43.707",
+    "lon": "169.75"
+  },
+  "metadata": {},
+  "source": {}
+}

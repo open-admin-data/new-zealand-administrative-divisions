@@ -1,0 +1,33 @@
+{
+  "id": "NZ11",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Chatham Islands",
+    "en": "Chatham Islands",
+    "slug": "chatham-islands-nz11"
+  },
+  "code": {
+    "id": "NZ11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-44.078",
+    "lon": "-176.323"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/chatham-islands-nz11/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

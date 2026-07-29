@@ -1,0 +1,45 @@
+{
+  "id": "NZ07D02",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hastings District",
+    "en": "Hastings District",
+    "slug": "hastings-district-nz07d02"
+  },
+  "code": {
+    "id": "NZ07D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ07",
+    "level": 1,
+    "name": {
+      "local": "Hawke's Bay",
+      "en": "Hawke's Bay",
+      "slug": "hawke-s-bay-nz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.357",
+    "lon": "176.588"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,14 @@
+# Marlborough — New Zealand Administrative Divisions
+
+> 1 districts
+> Code: NZ06
+> Coordinates: -41.448, 173.932
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Marlborough District
+
+Code: NZ06D01, Coordinates: -41.713, 173.517
+
+

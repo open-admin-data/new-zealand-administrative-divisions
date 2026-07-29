@@ -1,0 +1,45 @@
+{
+  "id": "NZ01D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaipara District",
+    "en": "Kaipara District",
+    "slug": "kaipara-district-nz01d03"
+  },
+  "code": {
+    "id": "NZ01D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ01",
+    "level": 1,
+    "name": {
+      "local": "Northland",
+      "en": "Northland",
+      "slug": "northland-nz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ01",
+      "level": 1,
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-35.915",
+    "lon": "173.92"
+  },
+  "metadata": {},
+  "source": {}
+}

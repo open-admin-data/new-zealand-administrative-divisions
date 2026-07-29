@@ -1,0 +1,33 @@
+{
+  "id": "NZ17",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Manawatu-Wanganui",
+    "en": "Manawatu-Wanganui",
+    "slug": "manawatu-wanganui-nz17"
+  },
+  "code": {
+    "id": "NZ17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.855",
+    "lon": "175.539"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/manawatu-wanganui-nz17/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

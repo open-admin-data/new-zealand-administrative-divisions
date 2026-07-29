@@ -1,0 +1,14 @@
+# Nelson — New Zealand Administrative Divisions
+
+> 1 districts
+> Code: NZ02
+> Coordinates: -41.104, 173.414
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Nelson City
+
+Code: NZ02D01, Coordinates: -41.235, 173.389
+
+

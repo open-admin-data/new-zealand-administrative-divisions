@@ -1,0 +1,45 @@
+{
+  "id": "NZ01D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Far North District",
+    "en": "Far North District",
+    "slug": "far-north-district-nz01d01"
+  },
+  "code": {
+    "id": "NZ01D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ01",
+    "level": 1,
+    "name": {
+      "local": "Northland",
+      "en": "Northland",
+      "slug": "northland-nz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ01",
+      "level": 1,
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-35.385",
+    "lon": "173.835"
+  },
+  "metadata": {},
+  "source": {}
+}

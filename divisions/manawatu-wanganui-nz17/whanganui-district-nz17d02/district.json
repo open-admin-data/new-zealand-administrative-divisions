@@ -1,0 +1,45 @@
+{
+  "id": "NZ17D02",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Whanganui District",
+    "en": "Whanganui District",
+    "slug": "whanganui-district-nz17d02"
+  },
+  "code": {
+    "id": "NZ17D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ17",
+    "level": 1,
+    "name": {
+      "local": "Manawatu-Wanganui",
+      "en": "Manawatu-Wanganui",
+      "slug": "manawatu-wanganui-nz17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.762",
+    "lon": "175.134"
+  },
+  "metadata": {},
+  "source": {}
+}

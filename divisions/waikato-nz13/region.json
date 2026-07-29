@@ -1,0 +1,33 @@
+{
+  "id": "NZ13",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Waikato",
+    "en": "Waikato",
+    "slug": "waikato-nz13"
+  },
+  "code": {
+    "id": "NZ13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.878",
+    "lon": "175.238"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/waikato-nz13/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

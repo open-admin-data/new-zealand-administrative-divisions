@@ -1,0 +1,14 @@
+# Auckland — New Zealand Administrative Divisions
+
+> 1 districts
+> Code: NZ16
+> Coordinates: -36.716, 174.685
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Auckland
+
+Code: NZ16D01, Coordinates: -36.379, 174.57
+
+

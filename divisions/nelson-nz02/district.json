@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NZ02D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nelson City",
+      "en": "Nelson City",
+      "slug": "nelson-city-nz02d01"
+    },
+    "code": {
+      "id": "NZ02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ02",
+      "level": 1,
+      "name": {
+        "local": "Nelson",
+        "en": "Nelson",
+        "slug": "nelson-nz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ02",
+        "level": 1,
+        "name": {
+          "local": "Nelson",
+          "en": "Nelson",
+          "slug": "nelson-nz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.235",
+      "lon": "173.389"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

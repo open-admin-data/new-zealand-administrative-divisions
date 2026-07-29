@@ -1,0 +1,45 @@
+{
+  "id": "NZ05D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaikoura District",
+    "en": "Kaikoura District",
+    "slug": "kaikoura-district-nz05d01"
+  },
+  "code": {
+    "id": "NZ05D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ05",
+    "level": 1,
+    "name": {
+      "local": "Canterbury",
+      "en": "Canterbury",
+      "slug": "canterbury-nz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-42.157",
+    "lon": "173.674"
+  },
+  "metadata": {},
+  "source": {}
+}

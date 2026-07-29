@@ -1,0 +1,182 @@
+[
+  {
+    "id": "NZ09D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Otago District",
+      "en": "Central Otago District",
+      "slug": "central-otago-district-nz09d01"
+    },
+    "code": {
+      "id": "NZ09D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.155",
+      "lon": "169.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ09D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Clutha District",
+      "en": "Clutha District",
+      "slug": "clutha-district-nz09d04"
+    },
+    "code": {
+      "id": "NZ09D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-46.131",
+      "lon": "169.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ09D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dunedin City",
+      "en": "Dunedin City",
+      "slug": "dunedin-city-nz09d03"
+    },
+    "code": {
+      "id": "NZ09D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.73",
+      "lon": "170.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ09D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Queenstown-Lakes District",
+      "en": "Queenstown-Lakes District",
+      "slug": "queenstown-lakes-district-nz09d02"
+    },
+    "code": {
+      "id": "NZ09D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-44.742",
+      "lon": "168.8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

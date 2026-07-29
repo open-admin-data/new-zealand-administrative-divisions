@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NZ06D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marlborough District",
+      "en": "Marlborough District",
+      "slug": "marlborough-district-nz06d01"
+    },
+    "code": {
+      "id": "NZ06D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ06",
+      "level": 1,
+      "name": {
+        "local": "Marlborough",
+        "en": "Marlborough",
+        "slug": "marlborough-nz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ06",
+        "level": 1,
+        "name": {
+          "local": "Marlborough",
+          "en": "Marlborough",
+          "slug": "marlborough-nz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.713",
+      "lon": "173.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

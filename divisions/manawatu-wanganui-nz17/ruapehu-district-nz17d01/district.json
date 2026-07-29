@@ -1,0 +1,45 @@
+{
+  "id": "NZ17D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ruapehu District",
+    "en": "Ruapehu District",
+    "slug": "ruapehu-district-nz17d01"
+  },
+  "code": {
+    "id": "NZ17D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ17",
+    "level": 1,
+    "name": {
+      "local": "Manawatu-Wanganui",
+      "en": "Manawatu-Wanganui",
+      "slug": "manawatu-wanganui-nz17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.111",
+    "lon": "175.327"
+  },
+  "metadata": {},
+  "source": {}
+}

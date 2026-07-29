@@ -1,0 +1,45 @@
+{
+  "id": "NZ13D04",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Matamata-Piako District",
+    "en": "Matamata-Piako District",
+    "slug": "matamata-piako-district-nz13d04"
+  },
+  "code": {
+    "id": "NZ13D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ13",
+    "level": 1,
+    "name": {
+      "local": "Waikato",
+      "en": "Waikato",
+      "slug": "waikato-nz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.673",
+    "lon": "175.688"
+  },
+  "metadata": {},
+  "source": {}
+}

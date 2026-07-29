@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NZ12D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tasman District",
+      "en": "Tasman District",
+      "slug": "tasman-district-nz12d01"
+    },
+    "code": {
+      "id": "NZ12D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ12",
+      "level": 1,
+      "name": {
+        "local": "Tasman",
+        "en": "Tasman",
+        "slug": "tasman-nz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ12",
+        "level": 1,
+        "name": {
+          "local": "Tasman",
+          "en": "Tasman",
+          "slug": "tasman-nz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.673",
+      "lon": "172.638"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "NZ08",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Taranaki",
+    "en": "Taranaki",
+    "slug": "taranaki-nz08"
+  },
+  "code": {
+    "id": "NZ08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.318",
+    "lon": "174.218"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/taranaki-nz08/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NZ17D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rangitikei District",
+    "en": "Rangitikei District",
+    "slug": "rangitikei-district-nz17d03"
+  },
+  "code": {
+    "id": "NZ17D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ17",
+    "level": 1,
+    "name": {
+      "local": "Manawatu-Wanganui",
+      "en": "Manawatu-Wanganui",
+      "slug": "manawatu-wanganui-nz17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.723",
+    "lon": "175.669"
+  },
+  "metadata": {},
+  "source": {}
+}

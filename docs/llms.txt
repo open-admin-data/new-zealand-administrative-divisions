@@ -1,0 +1,84 @@
+# New Zealand Administrative Divisions
+
+> Open dataset of New Zealand's administrative hierarchy:
+> 17 regions, 68 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 17
+- Total districts: 68
+- Coordinates: included (all levels)
+- Last updated: 2026-07-29
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/data/all-region.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Northland](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/northland-nz01/) — 3 districts
+- [Nelson](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/nelson-nz02/) — 1 districts
+- [West Coast](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/west-coast-nz03/) — 3 districts
+- [Bay of Plenty](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/bay-of-plenty-nz04/) — 7 districts
+- [Canterbury](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/canterbury-nz05/) — 10 districts
+- [Marlborough](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/marlborough-nz06/) — 1 districts
+- [Hawke&#39;s Bay](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/hawke-s-bay-nz07/) — 4 districts
+- [Taranaki](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/taranaki-nz08/) — 3 districts
+- [Otago](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/otago-nz09/) — 4 districts
+- [Southland](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/southland-nz10/) — 3 districts
+- [Chatham Islands](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/chatham-islands-nz11/) — 1 districts
+- [Tasman](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/tasman-nz12/) — 1 districts
+- [Waikato](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/waikato-nz13/) — 10 districts
+- [Wellington](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/wellington-nz14/) — 8 districts
+- [Gisborne](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/gisborne-nz15/) — 1 districts
+- [Auckland](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/auckland-nz16/) — 1 districts
+- [Manawatu-Wanganui](https://github.com/open-admin-data/new-zealand-administrative-divisions/tree/main/divisions/manawatu-wanganui-nz17/) — 7 districts
+
+## Per-Region Full Data
+
+- [Northland](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/northland-nz01.txt)
+- [Nelson](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/nelson-nz02.txt)
+- [West Coast](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/west-coast-nz03.txt)
+- [Bay of Plenty](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/bay-of-plenty-nz04.txt)
+- [Canterbury](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/canterbury-nz05.txt)
+- [Marlborough](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/marlborough-nz06.txt)
+- [Hawke&#39;s Bay](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/hawke-s-bay-nz07.txt)
+- [Taranaki](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/taranaki-nz08.txt)
+- [Otago](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/otago-nz09.txt)
+- [Southland](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/southland-nz10.txt)
+- [Chatham Islands](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/chatham-islands-nz11.txt)
+- [Tasman](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/tasman-nz12.txt)
+- [Waikato](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/waikato-nz13.txt)
+- [Wellington](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/wellington-nz14.txt)
+- [Gisborne](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/gisborne-nz15.txt)
+- [Auckland](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/auckland-nz16.txt)
+- [Manawatu-Wanganui](https://raw.githubusercontent.com/open-admin-data/new-zealand-administrative-divisions/main/docs/llms-full/manawatu-wanganui-nz17.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+New Zealand Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/new-zealand-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

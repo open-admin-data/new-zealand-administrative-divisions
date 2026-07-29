@@ -1,0 +1,45 @@
+{
+  "id": "NZ13D08",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "South Waikato District",
+    "en": "South Waikato District",
+    "slug": "south-waikato-district-nz13d08"
+  },
+  "code": {
+    "id": "NZ13D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ13",
+    "level": 1,
+    "name": {
+      "local": "Waikato",
+      "en": "Waikato",
+      "slug": "waikato-nz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.195",
+    "lon": "175.837"
+  },
+  "metadata": {},
+  "source": {}
+}

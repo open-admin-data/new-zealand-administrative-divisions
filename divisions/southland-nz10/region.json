@@ -1,0 +1,33 @@
+{
+  "id": "NZ10",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Southland",
+    "en": "Southland",
+    "slug": "southland-nz10"
+  },
+  "code": {
+    "id": "NZ10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-45.633",
+    "lon": "167.504"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/southland-nz10/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

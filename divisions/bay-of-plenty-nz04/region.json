@@ -1,0 +1,33 @@
+{
+  "id": "NZ04",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bay of Plenty",
+    "en": "Bay of Plenty",
+    "slug": "bay-of-plenty-nz04"
+  },
+  "code": {
+    "id": "NZ04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.089",
+    "lon": "176.88"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/bay-of-plenty-nz04/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

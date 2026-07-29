@@ -1,0 +1,452 @@
+[
+  {
+    "id": "NZ05D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ashburton District",
+      "en": "Ashburton District",
+      "slug": "ashburton-district-nz05d05"
+    },
+    "code": {
+      "id": "NZ05D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.78",
+      "lon": "171.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D10",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Christchurch City",
+      "en": "Christchurch City",
+      "slug": "christchurch-city-nz05d10"
+    },
+    "code": {
+      "id": "NZ05D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.737",
+      "lon": "172.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hurunui District",
+      "en": "Hurunui District",
+      "slug": "hurunui-district-nz05d02"
+    },
+    "code": {
+      "id": "NZ05D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.726",
+      "lon": "172.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaikoura District",
+      "en": "Kaikoura District",
+      "slug": "kaikoura-district-nz05d01"
+    },
+    "code": {
+      "id": "NZ05D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.157",
+      "lon": "173.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mackenzie District",
+      "en": "Mackenzie District",
+      "slug": "mackenzie-district-nz05d07"
+    },
+    "code": {
+      "id": "NZ05D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.982",
+      "lon": "170.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selwyn District",
+      "en": "Selwyn District",
+      "slug": "selwyn-district-nz05d04"
+    },
+    "code": {
+      "id": "NZ05D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.153",
+      "lon": "171.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Timaru District",
+      "en": "Timaru District",
+      "slug": "timaru-district-nz05d06"
+    },
+    "code": {
+      "id": "NZ05D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-44.152",
+      "lon": "171.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waimakariri District",
+      "en": "Waimakariri District",
+      "slug": "waimakariri-district-nz05d03"
+    },
+    "code": {
+      "id": "NZ05D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.239",
+      "lon": "172.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D08",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waimate District",
+      "en": "Waimate District",
+      "slug": "waimate-district-nz05d08"
+    },
+    "code": {
+      "id": "NZ05D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-44.645",
+      "lon": "170.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D09",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waitaki District",
+      "en": "Waitaki District",
+      "slug": "waitaki-district-nz05d09"
+    },
+    "code": {
+      "id": "NZ05D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.051",
+      "lon": "170.638"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

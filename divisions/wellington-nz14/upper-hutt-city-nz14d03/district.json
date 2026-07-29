@@ -1,0 +1,45 @@
+{
+  "id": "NZ14D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Upper Hutt City",
+    "en": "Upper Hutt City",
+    "slug": "upper-hutt-city-nz14d03"
+  },
+  "code": {
+    "id": "NZ14D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ14",
+    "level": 1,
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-nz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.082",
+    "lon": "175.115"
+  },
+  "metadata": {},
+  "source": {}
+}

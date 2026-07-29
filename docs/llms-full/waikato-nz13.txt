@@ -1,0 +1,59 @@
+# Waikato — New Zealand Administrative Divisions
+
+> 10 districts
+> Code: NZ13
+> Coordinates: -37.878, 175.238
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Hamilton City
+
+Code: NZ13D05, Coordinates: -37.771, 175.266
+
+
+### Hauraki District
+
+Code: NZ13D02, Coordinates: -37.314, 175.492
+
+
+### Matamata-Piako District
+
+Code: NZ13D04, Coordinates: -37.673, 175.688
+
+
+### Otorohanga District
+
+Code: NZ13D07, Coordinates: -38.197, 175.299
+
+
+### South Waikato District
+
+Code: NZ13D08, Coordinates: -38.195, 175.837
+
+
+### Taupo District
+
+Code: NZ13D10, Coordinates: -38.811, 175.999
+
+
+### Thames-Coromandel District
+
+Code: NZ13D01, Coordinates: -37.043, 175.669
+
+
+### Waikato District
+
+Code: NZ13D03, Coordinates: -37.482, 175.066
+
+
+### Waipa District
+
+Code: NZ13D06, Coordinates: -37.983, 175.505
+
+
+### Waitomo District
+
+Code: NZ13D09, Coordinates: -38.43, 174.958
+
+

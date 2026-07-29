@@ -1,0 +1,45 @@
+# New Zealand Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Northland](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/northland-nz01.txt) — 3 districts
+- [Nelson](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/nelson-nz02.txt) — 1 districts
+- [West Coast](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/west-coast-nz03.txt) — 3 districts
+- [Bay of Plenty](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/bay-of-plenty-nz04.txt) — 7 districts
+- [Canterbury](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/canterbury-nz05.txt) — 10 districts
+- [Marlborough](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/marlborough-nz06.txt) — 1 districts
+- [Hawke&#39;s Bay](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/hawke-s-bay-nz07.txt) — 4 districts
+- [Taranaki](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/taranaki-nz08.txt) — 3 districts
+- [Otago](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/otago-nz09.txt) — 4 districts
+- [Southland](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/southland-nz10.txt) — 3 districts
+- [Chatham Islands](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/chatham-islands-nz11.txt) — 1 districts
+- [Tasman](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/tasman-nz12.txt) — 1 districts
+- [Waikato](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/waikato-nz13.txt) — 10 districts
+- [Wellington](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/wellington-nz14.txt) — 8 districts
+- [Gisborne](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/gisborne-nz15.txt) — 1 districts
+- [Auckland](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/auckland-nz16.txt) — 1 districts
+- [Manawatu-Wanganui](https://github.com/open-admin-data/new-zealand-administrative-divisions/blob/main/docs/llms-full/manawatu-wanganui-nz17.txt) — 7 districts
+
+## Summary
+
+| Region | Districts | 
+|---|---|
+| Northland | 3 | 
+| Nelson | 1 | 
+| West Coast | 3 | 
+| Bay of Plenty | 7 | 
+| Canterbury | 10 | 
+| Marlborough | 1 | 
+| Hawke&#39;s Bay | 4 | 
+| Taranaki | 3 | 
+| Otago | 4 | 
+| Southland | 3 | 
+| Chatham Islands | 1 | 
+| Tasman | 1 | 
+| Waikato | 10 | 
+| Wellington | 8 | 
+| Gisborne | 1 | 
+| Auckland | 1 | 
+| Manawatu-Wanganui | 7 | 

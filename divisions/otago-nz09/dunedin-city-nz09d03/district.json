@@ -1,0 +1,45 @@
+{
+  "id": "NZ09D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dunedin City",
+    "en": "Dunedin City",
+    "slug": "dunedin-city-nz09d03"
+  },
+  "code": {
+    "id": "NZ09D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ09",
+    "level": 1,
+    "name": {
+      "local": "Otago",
+      "en": "Otago",
+      "slug": "otago-nz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-45.73",
+    "lon": "170.259"
+  },
+  "metadata": {},
+  "source": {}
+}

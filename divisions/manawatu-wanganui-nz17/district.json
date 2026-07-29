@@ -1,0 +1,317 @@
+[
+  {
+    "id": "NZ17D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Horowhenua District",
+      "en": "Horowhenua District",
+      "slug": "horowhenua-district-nz17d07"
+    },
+    "code": {
+      "id": "NZ17D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.574",
+      "lon": "175.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manawatu District",
+      "en": "Manawatu District",
+      "slug": "manawatu-district-nz17d04"
+    },
+    "code": {
+      "id": "NZ17D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.124",
+      "lon": "175.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Palmerston North City",
+      "en": "Palmerston North City",
+      "slug": "palmerston-north-city-nz17d05"
+    },
+    "code": {
+      "id": "NZ17D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.382",
+      "lon": "175.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rangitikei District",
+      "en": "Rangitikei District",
+      "slug": "rangitikei-district-nz17d03"
+    },
+    "code": {
+      "id": "NZ17D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.723",
+      "lon": "175.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ruapehu District",
+      "en": "Ruapehu District",
+      "slug": "ruapehu-district-nz17d01"
+    },
+    "code": {
+      "id": "NZ17D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.111",
+      "lon": "175.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tararua District",
+      "en": "Tararua District",
+      "slug": "tararua-district-nz17d06"
+    },
+    "code": {
+      "id": "NZ17D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.394",
+      "lon": "176.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Whanganui District",
+      "en": "Whanganui District",
+      "slug": "whanganui-district-nz17d02"
+    },
+    "code": {
+      "id": "NZ17D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.762",
+      "lon": "175.134"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

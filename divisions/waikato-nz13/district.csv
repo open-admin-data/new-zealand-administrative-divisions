@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+NZ13D05,Hamilton City,Hamilton City,hamilton-city-nz13d05,NZ13D05,-37.771,175.266
+NZ13D02,Hauraki District,Hauraki District,hauraki-district-nz13d02,NZ13D02,-37.314,175.492
+NZ13D04,Matamata-Piako District,Matamata-Piako District,matamata-piako-district-nz13d04,NZ13D04,-37.673,175.688
+NZ13D07,Otorohanga District,Otorohanga District,otorohanga-district-nz13d07,NZ13D07,-38.197,175.299
+NZ13D08,South Waikato District,South Waikato District,south-waikato-district-nz13d08,NZ13D08,-38.195,175.837
+NZ13D10,Taupo District,Taupo District,taupo-district-nz13d10,NZ13D10,-38.811,175.999
+NZ13D01,Thames-Coromandel District,Thames-Coromandel District,thames-coromandel-district-nz13d01,NZ13D01,-37.043,175.669
+NZ13D03,Waikato District,Waikato District,waikato-district-nz13d03,NZ13D03,-37.482,175.066
+NZ13D06,Waipa District,Waipa District,waipa-district-nz13d06,NZ13D06,-37.983,175.505
+NZ13D09,Waitomo District,Waitomo District,waitomo-district-nz13d09,NZ13D09,-38.43,174.958

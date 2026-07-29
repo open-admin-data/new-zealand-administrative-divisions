@@ -1,0 +1,33 @@
+{
+  "id": "NZ02",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Nelson",
+    "en": "Nelson",
+    "slug": "nelson-nz02"
+  },
+  "code": {
+    "id": "NZ02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.104",
+    "lon": "173.414"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/nelson-nz02/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

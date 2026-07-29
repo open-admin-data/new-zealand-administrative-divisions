@@ -1,0 +1,45 @@
+{
+  "id": "NZ04D05",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kawerau District",
+    "en": "Kawerau District",
+    "slug": "kawerau-district-nz04d05"
+  },
+  "code": {
+    "id": "NZ04D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ04",
+    "level": 1,
+    "name": {
+      "local": "Bay of Plenty",
+      "en": "Bay of Plenty",
+      "slug": "bay-of-plenty-nz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.095",
+    "lon": "176.687"
+  },
+  "metadata": {},
+  "source": {}
+}

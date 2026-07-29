@@ -1,0 +1,45 @@
+{
+  "id": "NZ04D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Western Bay of Plenty District",
+    "en": "Western Bay of Plenty District",
+    "slug": "western-bay-of-plenty-district-nz04d01"
+  },
+  "code": {
+    "id": "NZ04D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ04",
+    "level": 1,
+    "name": {
+      "local": "Bay of Plenty",
+      "en": "Bay of Plenty",
+      "slug": "bay-of-plenty-nz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.838",
+    "lon": "176.249"
+  },
+  "metadata": {},
+  "source": {}
+}

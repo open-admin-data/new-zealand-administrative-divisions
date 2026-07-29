@@ -1,0 +1,59 @@
+# Canterbury — New Zealand Administrative Divisions
+
+> 10 districts
+> Code: NZ05
+> Coordinates: -43.632, 171.638
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ashburton District
+
+Code: NZ05D05, Coordinates: -43.78, 171.533
+
+
+### Christchurch City
+
+Code: NZ05D10, Coordinates: -43.737, 172.759
+
+
+### Hurunui District
+
+Code: NZ05D02, Coordinates: -42.726, 172.676
+
+
+### Kaikoura District
+
+Code: NZ05D01, Coordinates: -42.157, 173.674
+
+
+### Mackenzie District
+
+Code: NZ05D07, Coordinates: -43.982, 170.378
+
+
+### Selwyn District
+
+Code: NZ05D04, Coordinates: -43.153, 171.689
+
+
+### Timaru District
+
+Code: NZ05D06, Coordinates: -44.152, 171.201
+
+
+### Waimakariri District
+
+Code: NZ05D03, Coordinates: -43.239, 172.239
+
+
+### Waimate District
+
+Code: NZ05D08, Coordinates: -44.645, 170.759
+
+
+### Waitaki District
+
+Code: NZ05D09, Coordinates: -45.051, 170.638
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "NZ14D07",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Carterton District",
+    "en": "Carterton District",
+    "slug": "carterton-district-nz14d07"
+  },
+  "code": {
+    "id": "NZ14D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ14",
+    "level": 1,
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-nz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.142",
+    "lon": "175.65"
+  },
+  "metadata": {},
+  "source": {}
+}

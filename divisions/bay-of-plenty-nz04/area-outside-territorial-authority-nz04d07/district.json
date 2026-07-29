@@ -1,0 +1,45 @@
+{
+  "id": "NZ04D07",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Area Outside Territorial Authority",
+    "en": "Area Outside Territorial Authority",
+    "slug": "area-outside-territorial-authority-nz04d07"
+  },
+  "code": {
+    "id": "NZ04D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ04",
+    "level": 1,
+    "name": {
+      "local": "Bay of Plenty",
+      "en": "Bay of Plenty",
+      "slug": "bay-of-plenty-nz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.286",
+    "lon": "176.255"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "NZ04D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Area Outside Territorial Authority",
+      "en": "Area Outside Territorial Authority",
+      "slug": "area-outside-territorial-authority-nz04d07"
+    },
+    "code": {
+      "id": "NZ04D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.286",
+      "lon": "176.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawerau District",
+      "en": "Kawerau District",
+      "slug": "kawerau-district-nz04d05"
+    },
+    "code": {
+      "id": "NZ04D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.095",
+      "lon": "176.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Opotiki District",
+      "en": "Opotiki District",
+      "slug": "opotiki-district-nz04d06"
+    },
+    "code": {
+      "id": "NZ04D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.874",
+      "lon": "177.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rotorua District",
+      "en": "Rotorua District",
+      "slug": "rotorua-district-nz04d03"
+    },
+    "code": {
+      "id": "NZ04D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.233",
+      "lon": "176.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tauranga City",
+      "en": "Tauranga City",
+      "slug": "tauranga-city-nz04d02"
+    },
+    "code": {
+      "id": "NZ04D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.731",
+      "lon": "176.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Western Bay of Plenty District",
+      "en": "Western Bay of Plenty District",
+      "slug": "western-bay-of-plenty-district-nz04d01"
+    },
+    "code": {
+      "id": "NZ04D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.838",
+      "lon": "176.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Whakatane District",
+      "en": "Whakatane District",
+      "slug": "whakatane-district-nz04d04"
+    },
+    "code": {
+      "id": "NZ04D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.357",
+      "lon": "176.881"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

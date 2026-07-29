@@ -1,0 +1,45 @@
+{
+  "id": "NZ13D07",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Otorohanga District",
+    "en": "Otorohanga District",
+    "slug": "otorohanga-district-nz13d07"
+  },
+  "code": {
+    "id": "NZ13D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ13",
+    "level": 1,
+    "name": {
+      "local": "Waikato",
+      "en": "Waikato",
+      "slug": "waikato-nz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.197",
+    "lon": "175.299"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "NZ10D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gore District",
+      "en": "Gore District",
+      "slug": "gore-district-nz10d02"
+    },
+    "code": {
+      "id": "NZ10D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ10",
+        "level": 1,
+        "name": {
+          "local": "Southland",
+          "en": "Southland",
+          "slug": "southland-nz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-46.087",
+      "lon": "168.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ10D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Invercargill City",
+      "en": "Invercargill City",
+      "slug": "invercargill-city-nz10d03"
+    },
+    "code": {
+      "id": "NZ10D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ10",
+        "level": 1,
+        "name": {
+          "local": "Southland",
+          "en": "Southland",
+          "slug": "southland-nz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-46.432",
+      "lon": "168.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ10D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Southland District",
+      "en": "Southland District",
+      "slug": "southland-district-nz10d01"
+    },
+    "code": {
+      "id": "NZ10D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ10",
+        "level": 1,
+        "name": {
+          "local": "Southland",
+          "en": "Southland",
+          "slug": "southland-nz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.617",
+      "lon": "167.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

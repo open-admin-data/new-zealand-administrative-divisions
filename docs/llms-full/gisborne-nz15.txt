@@ -1,0 +1,14 @@
+# Gisborne — New Zealand Administrative Divisions
+
+> 1 districts
+> Code: NZ15
+> Coordinates: -38.34, 178.198
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Gisborne District
+
+Code: NZ15D01, Coordinates: -38.39, 177.921
+
+

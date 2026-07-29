@@ -1,0 +1,44 @@
+# Bay of Plenty — New Zealand Administrative Divisions
+
+> 7 districts
+> Code: NZ04
+> Coordinates: -38.089, 176.88
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Area Outside Territorial Authority
+
+Code: NZ04D07, Coordinates: -37.286, 176.255
+
+
+### Kawerau District
+
+Code: NZ04D05, Coordinates: -38.095, 176.687
+
+
+### Opotiki District
+
+Code: NZ04D06, Coordinates: -37.874, 177.795
+
+
+### Rotorua District
+
+Code: NZ04D03, Coordinates: -38.233, 176.364
+
+
+### Tauranga City
+
+Code: NZ04D02, Coordinates: -37.731, 176.122
+
+
+### Western Bay of Plenty District
+
+Code: NZ04D01, Coordinates: -37.838, 176.249
+
+
+### Whakatane District
+
+Code: NZ04D04, Coordinates: -38.357, 176.881
+
+

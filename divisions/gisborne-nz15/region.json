@@ -1,0 +1,33 @@
+{
+  "id": "NZ15",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gisborne",
+    "en": "Gisborne",
+    "slug": "gisborne-nz15"
+  },
+  "code": {
+    "id": "NZ15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.34",
+    "lon": "178.198"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/gisborne-nz15/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NZ13D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thames-Coromandel District",
+    "en": "Thames-Coromandel District",
+    "slug": "thames-coromandel-district-nz13d01"
+  },
+  "code": {
+    "id": "NZ13D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ13",
+    "level": 1,
+    "name": {
+      "local": "Waikato",
+      "en": "Waikato",
+      "slug": "waikato-nz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.043",
+    "lon": "175.669"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NZ16D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Auckland",
+    "en": "Auckland",
+    "slug": "auckland-nz16d01"
+  },
+  "code": {
+    "id": "NZ16D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ16",
+    "level": 1,
+    "name": {
+      "local": "Auckland",
+      "en": "Auckland",
+      "slug": "auckland-nz16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ16",
+      "level": 1,
+      "name": {
+        "local": "Auckland",
+        "en": "Auckland",
+        "slug": "auckland-nz16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-36.379",
+    "lon": "174.57"
+  },
+  "metadata": {},
+  "source": {}
+}

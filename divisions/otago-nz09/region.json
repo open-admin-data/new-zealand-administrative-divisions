@@ -1,0 +1,33 @@
+{
+  "id": "NZ09",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Otago",
+    "en": "Otago",
+    "slug": "otago-nz09"
+  },
+  "code": {
+    "id": "NZ09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-45.745",
+    "lon": "169.859"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/otago-nz09/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

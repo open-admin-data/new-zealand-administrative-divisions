@@ -1,0 +1,45 @@
+{
+  "id": "NZ04D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rotorua District",
+    "en": "Rotorua District",
+    "slug": "rotorua-district-nz04d03"
+  },
+  "code": {
+    "id": "NZ04D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ04",
+    "level": 1,
+    "name": {
+      "local": "Bay of Plenty",
+      "en": "Bay of Plenty",
+      "slug": "bay-of-plenty-nz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.233",
+    "lon": "176.364"
+  },
+  "metadata": {},
+  "source": {}
+}

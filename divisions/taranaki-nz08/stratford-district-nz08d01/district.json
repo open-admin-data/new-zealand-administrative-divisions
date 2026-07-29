@@ -1,0 +1,45 @@
+{
+  "id": "NZ08D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Stratford District",
+    "en": "Stratford District",
+    "slug": "stratford-district-nz08d01"
+  },
+  "code": {
+    "id": "NZ08D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ08",
+    "level": 1,
+    "name": {
+      "local": "Taranaki",
+      "en": "Taranaki",
+      "slug": "taranaki-nz08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ08",
+      "level": 1,
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.24",
+    "lon": "174.63"
+  },
+  "metadata": {},
+  "source": {}
+}

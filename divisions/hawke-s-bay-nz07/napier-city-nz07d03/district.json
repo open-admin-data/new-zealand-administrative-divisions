@@ -1,0 +1,45 @@
+{
+  "id": "NZ07D03",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Napier City",
+    "en": "Napier City",
+    "slug": "napier-city-nz07d03"
+  },
+  "code": {
+    "id": "NZ07D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ07",
+    "level": 1,
+    "name": {
+      "local": "Hawke's Bay",
+      "en": "Hawke's Bay",
+      "slug": "hawke-s-bay-nz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.52",
+    "lon": "176.88"
+  },
+  "metadata": {},
+  "source": {}
+}

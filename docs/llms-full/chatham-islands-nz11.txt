@@ -1,0 +1,14 @@
+# Chatham Islands — New Zealand Administrative Divisions
+
+> 1 districts
+> Code: NZ11
+> Coordinates: -44.078, -176.323
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Chatham Islands Territory
+
+Code: NZ11D01, Coordinates: -44.045, -176.578
+
+

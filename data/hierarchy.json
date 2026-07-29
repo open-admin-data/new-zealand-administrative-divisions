@@ -1,0 +1,1059 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/nz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/new-zealand-administrative-divisions",
+  "data": [
+    {
+      "id": "NZ01",
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      },
+      "code": {
+        "id": "NZ01",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ01D01",
+          "name": {
+            "local": "Far North District",
+            "en": "Far North District",
+            "slug": "far-north-district-nz01d01"
+          },
+          "code": {
+            "id": "NZ01D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ01D02",
+          "name": {
+            "local": "Whangarei District",
+            "en": "Whangarei District",
+            "slug": "whangarei-district-nz01d02"
+          },
+          "code": {
+            "id": "NZ01D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ01D03",
+          "name": {
+            "local": "Kaipara District",
+            "en": "Kaipara District",
+            "slug": "kaipara-district-nz01d03"
+          },
+          "code": {
+            "id": "NZ01D03",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ02",
+      "name": {
+        "local": "Nelson",
+        "en": "Nelson",
+        "slug": "nelson-nz02"
+      },
+      "code": {
+        "id": "NZ02",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ02D01",
+          "name": {
+            "local": "Nelson City",
+            "en": "Nelson City",
+            "slug": "nelson-city-nz02d01"
+          },
+          "code": {
+            "id": "NZ02D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ03",
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-nz03"
+      },
+      "code": {
+        "id": "NZ03",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ03D01",
+          "name": {
+            "local": "Buller District",
+            "en": "Buller District",
+            "slug": "buller-district-nz03d01"
+          },
+          "code": {
+            "id": "NZ03D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ03D02",
+          "name": {
+            "local": "Grey District",
+            "en": "Grey District",
+            "slug": "grey-district-nz03d02"
+          },
+          "code": {
+            "id": "NZ03D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ03D03",
+          "name": {
+            "local": "Westland District",
+            "en": "Westland District",
+            "slug": "westland-district-nz03d03"
+          },
+          "code": {
+            "id": "NZ03D03",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ04",
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      },
+      "code": {
+        "id": "NZ04",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ04D01",
+          "name": {
+            "local": "Western Bay of Plenty District",
+            "en": "Western Bay of Plenty District",
+            "slug": "western-bay-of-plenty-district-nz04d01"
+          },
+          "code": {
+            "id": "NZ04D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ04D02",
+          "name": {
+            "local": "Tauranga City",
+            "en": "Tauranga City",
+            "slug": "tauranga-city-nz04d02"
+          },
+          "code": {
+            "id": "NZ04D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ04D03",
+          "name": {
+            "local": "Rotorua District",
+            "en": "Rotorua District",
+            "slug": "rotorua-district-nz04d03"
+          },
+          "code": {
+            "id": "NZ04D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ04D04",
+          "name": {
+            "local": "Whakatane District",
+            "en": "Whakatane District",
+            "slug": "whakatane-district-nz04d04"
+          },
+          "code": {
+            "id": "NZ04D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ04D05",
+          "name": {
+            "local": "Kawerau District",
+            "en": "Kawerau District",
+            "slug": "kawerau-district-nz04d05"
+          },
+          "code": {
+            "id": "NZ04D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ04D06",
+          "name": {
+            "local": "Opotiki District",
+            "en": "Opotiki District",
+            "slug": "opotiki-district-nz04d06"
+          },
+          "code": {
+            "id": "NZ04D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ04D07",
+          "name": {
+            "local": "Area Outside Territorial Authority",
+            "en": "Area Outside Territorial Authority",
+            "slug": "area-outside-territorial-authority-nz04d07"
+          },
+          "code": {
+            "id": "NZ04D07",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ05",
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      },
+      "code": {
+        "id": "NZ05",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ05D01",
+          "name": {
+            "local": "Kaikoura District",
+            "en": "Kaikoura District",
+            "slug": "kaikoura-district-nz05d01"
+          },
+          "code": {
+            "id": "NZ05D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D02",
+          "name": {
+            "local": "Hurunui District",
+            "en": "Hurunui District",
+            "slug": "hurunui-district-nz05d02"
+          },
+          "code": {
+            "id": "NZ05D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D03",
+          "name": {
+            "local": "Waimakariri District",
+            "en": "Waimakariri District",
+            "slug": "waimakariri-district-nz05d03"
+          },
+          "code": {
+            "id": "NZ05D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D04",
+          "name": {
+            "local": "Selwyn District",
+            "en": "Selwyn District",
+            "slug": "selwyn-district-nz05d04"
+          },
+          "code": {
+            "id": "NZ05D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D05",
+          "name": {
+            "local": "Ashburton District",
+            "en": "Ashburton District",
+            "slug": "ashburton-district-nz05d05"
+          },
+          "code": {
+            "id": "NZ05D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D06",
+          "name": {
+            "local": "Timaru District",
+            "en": "Timaru District",
+            "slug": "timaru-district-nz05d06"
+          },
+          "code": {
+            "id": "NZ05D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D07",
+          "name": {
+            "local": "Mackenzie District",
+            "en": "Mackenzie District",
+            "slug": "mackenzie-district-nz05d07"
+          },
+          "code": {
+            "id": "NZ05D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D08",
+          "name": {
+            "local": "Waimate District",
+            "en": "Waimate District",
+            "slug": "waimate-district-nz05d08"
+          },
+          "code": {
+            "id": "NZ05D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D09",
+          "name": {
+            "local": "Waitaki District",
+            "en": "Waitaki District",
+            "slug": "waitaki-district-nz05d09"
+          },
+          "code": {
+            "id": "NZ05D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ05D10",
+          "name": {
+            "local": "Christchurch City",
+            "en": "Christchurch City",
+            "slug": "christchurch-city-nz05d10"
+          },
+          "code": {
+            "id": "NZ05D10",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ06",
+      "name": {
+        "local": "Marlborough",
+        "en": "Marlborough",
+        "slug": "marlborough-nz06"
+      },
+      "code": {
+        "id": "NZ06",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ06D01",
+          "name": {
+            "local": "Marlborough District",
+            "en": "Marlborough District",
+            "slug": "marlborough-district-nz06d01"
+          },
+          "code": {
+            "id": "NZ06D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ07",
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      },
+      "code": {
+        "id": "NZ07",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ07D01",
+          "name": {
+            "local": "Wairoa District",
+            "en": "Wairoa District",
+            "slug": "wairoa-district-nz07d01"
+          },
+          "code": {
+            "id": "NZ07D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ07D02",
+          "name": {
+            "local": "Hastings District",
+            "en": "Hastings District",
+            "slug": "hastings-district-nz07d02"
+          },
+          "code": {
+            "id": "NZ07D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ07D03",
+          "name": {
+            "local": "Napier City",
+            "en": "Napier City",
+            "slug": "napier-city-nz07d03"
+          },
+          "code": {
+            "id": "NZ07D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ07D04",
+          "name": {
+            "local": "Central Hawke's Bay District",
+            "en": "Central Hawke's Bay District",
+            "slug": "central-hawke-s-bay-district-nz07d04"
+          },
+          "code": {
+            "id": "NZ07D04",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ08",
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      },
+      "code": {
+        "id": "NZ08",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ08D01",
+          "name": {
+            "local": "Stratford District",
+            "en": "Stratford District",
+            "slug": "stratford-district-nz08d01"
+          },
+          "code": {
+            "id": "NZ08D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ08D02",
+          "name": {
+            "local": "South Taranaki District",
+            "en": "South Taranaki District",
+            "slug": "south-taranaki-district-nz08d02"
+          },
+          "code": {
+            "id": "NZ08D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ08D03",
+          "name": {
+            "local": "New Plymouth District",
+            "en": "New Plymouth District",
+            "slug": "new-plymouth-district-nz08d03"
+          },
+          "code": {
+            "id": "NZ08D03",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ09",
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      },
+      "code": {
+        "id": "NZ09",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ09D01",
+          "name": {
+            "local": "Central Otago District",
+            "en": "Central Otago District",
+            "slug": "central-otago-district-nz09d01"
+          },
+          "code": {
+            "id": "NZ09D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ09D02",
+          "name": {
+            "local": "Queenstown-Lakes District",
+            "en": "Queenstown-Lakes District",
+            "slug": "queenstown-lakes-district-nz09d02"
+          },
+          "code": {
+            "id": "NZ09D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ09D03",
+          "name": {
+            "local": "Dunedin City",
+            "en": "Dunedin City",
+            "slug": "dunedin-city-nz09d03"
+          },
+          "code": {
+            "id": "NZ09D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ09D04",
+          "name": {
+            "local": "Clutha District",
+            "en": "Clutha District",
+            "slug": "clutha-district-nz09d04"
+          },
+          "code": {
+            "id": "NZ09D04",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ10",
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      },
+      "code": {
+        "id": "NZ10",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ10D01",
+          "name": {
+            "local": "Southland District",
+            "en": "Southland District",
+            "slug": "southland-district-nz10d01"
+          },
+          "code": {
+            "id": "NZ10D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ10D02",
+          "name": {
+            "local": "Gore District",
+            "en": "Gore District",
+            "slug": "gore-district-nz10d02"
+          },
+          "code": {
+            "id": "NZ10D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ10D03",
+          "name": {
+            "local": "Invercargill City",
+            "en": "Invercargill City",
+            "slug": "invercargill-city-nz10d03"
+          },
+          "code": {
+            "id": "NZ10D03",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ11",
+      "name": {
+        "local": "Chatham Islands",
+        "en": "Chatham Islands",
+        "slug": "chatham-islands-nz11"
+      },
+      "code": {
+        "id": "NZ11",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ11D01",
+          "name": {
+            "local": "Chatham Islands Territory",
+            "en": "Chatham Islands Territory",
+            "slug": "chatham-islands-territory-nz11d01"
+          },
+          "code": {
+            "id": "NZ11D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ12",
+      "name": {
+        "local": "Tasman",
+        "en": "Tasman",
+        "slug": "tasman-nz12"
+      },
+      "code": {
+        "id": "NZ12",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ12D01",
+          "name": {
+            "local": "Tasman District",
+            "en": "Tasman District",
+            "slug": "tasman-district-nz12d01"
+          },
+          "code": {
+            "id": "NZ12D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ13",
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      },
+      "code": {
+        "id": "NZ13",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ13D01",
+          "name": {
+            "local": "Thames-Coromandel District",
+            "en": "Thames-Coromandel District",
+            "slug": "thames-coromandel-district-nz13d01"
+          },
+          "code": {
+            "id": "NZ13D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D02",
+          "name": {
+            "local": "Hauraki District",
+            "en": "Hauraki District",
+            "slug": "hauraki-district-nz13d02"
+          },
+          "code": {
+            "id": "NZ13D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D03",
+          "name": {
+            "local": "Waikato District",
+            "en": "Waikato District",
+            "slug": "waikato-district-nz13d03"
+          },
+          "code": {
+            "id": "NZ13D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D04",
+          "name": {
+            "local": "Matamata-Piako District",
+            "en": "Matamata-Piako District",
+            "slug": "matamata-piako-district-nz13d04"
+          },
+          "code": {
+            "id": "NZ13D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D05",
+          "name": {
+            "local": "Hamilton City",
+            "en": "Hamilton City",
+            "slug": "hamilton-city-nz13d05"
+          },
+          "code": {
+            "id": "NZ13D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D06",
+          "name": {
+            "local": "Waipa District",
+            "en": "Waipa District",
+            "slug": "waipa-district-nz13d06"
+          },
+          "code": {
+            "id": "NZ13D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D07",
+          "name": {
+            "local": "Otorohanga District",
+            "en": "Otorohanga District",
+            "slug": "otorohanga-district-nz13d07"
+          },
+          "code": {
+            "id": "NZ13D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D08",
+          "name": {
+            "local": "South Waikato District",
+            "en": "South Waikato District",
+            "slug": "south-waikato-district-nz13d08"
+          },
+          "code": {
+            "id": "NZ13D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D09",
+          "name": {
+            "local": "Waitomo District",
+            "en": "Waitomo District",
+            "slug": "waitomo-district-nz13d09"
+          },
+          "code": {
+            "id": "NZ13D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ13D10",
+          "name": {
+            "local": "Taupo District",
+            "en": "Taupo District",
+            "slug": "taupo-district-nz13d10"
+          },
+          "code": {
+            "id": "NZ13D10",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ14",
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      },
+      "code": {
+        "id": "NZ14",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ14D01",
+          "name": {
+            "local": "Kapiti Coast District",
+            "en": "Kapiti Coast District",
+            "slug": "kapiti-coast-district-nz14d01"
+          },
+          "code": {
+            "id": "NZ14D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ14D02",
+          "name": {
+            "local": "Porirua City",
+            "en": "Porirua City",
+            "slug": "porirua-city-nz14d02"
+          },
+          "code": {
+            "id": "NZ14D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ14D03",
+          "name": {
+            "local": "Upper Hutt City",
+            "en": "Upper Hutt City",
+            "slug": "upper-hutt-city-nz14d03"
+          },
+          "code": {
+            "id": "NZ14D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ14D04",
+          "name": {
+            "local": "Lower Hutt City",
+            "en": "Lower Hutt City",
+            "slug": "lower-hutt-city-nz14d04"
+          },
+          "code": {
+            "id": "NZ14D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ14D05",
+          "name": {
+            "local": "Wellington City",
+            "en": "Wellington City",
+            "slug": "wellington-city-nz14d05"
+          },
+          "code": {
+            "id": "NZ14D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ14D06",
+          "name": {
+            "local": "Masterton District",
+            "en": "Masterton District",
+            "slug": "masterton-district-nz14d06"
+          },
+          "code": {
+            "id": "NZ14D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ14D07",
+          "name": {
+            "local": "Carterton District",
+            "en": "Carterton District",
+            "slug": "carterton-district-nz14d07"
+          },
+          "code": {
+            "id": "NZ14D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ14D08",
+          "name": {
+            "local": "South Wairarapa District",
+            "en": "South Wairarapa District",
+            "slug": "south-wairarapa-district-nz14d08"
+          },
+          "code": {
+            "id": "NZ14D08",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ15",
+      "name": {
+        "local": "Gisborne",
+        "en": "Gisborne",
+        "slug": "gisborne-nz15"
+      },
+      "code": {
+        "id": "NZ15",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ15D01",
+          "name": {
+            "local": "Gisborne District",
+            "en": "Gisborne District",
+            "slug": "gisborne-district-nz15d01"
+          },
+          "code": {
+            "id": "NZ15D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ16",
+      "name": {
+        "local": "Auckland",
+        "en": "Auckland",
+        "slug": "auckland-nz16"
+      },
+      "code": {
+        "id": "NZ16",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ16D01",
+          "name": {
+            "local": "Auckland",
+            "en": "Auckland",
+            "slug": "auckland-nz16d01"
+          },
+          "code": {
+            "id": "NZ16D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "NZ17",
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      },
+      "code": {
+        "id": "NZ17",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "NZ17D01",
+          "name": {
+            "local": "Ruapehu District",
+            "en": "Ruapehu District",
+            "slug": "ruapehu-district-nz17d01"
+          },
+          "code": {
+            "id": "NZ17D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ17D02",
+          "name": {
+            "local": "Whanganui District",
+            "en": "Whanganui District",
+            "slug": "whanganui-district-nz17d02"
+          },
+          "code": {
+            "id": "NZ17D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ17D03",
+          "name": {
+            "local": "Rangitikei District",
+            "en": "Rangitikei District",
+            "slug": "rangitikei-district-nz17d03"
+          },
+          "code": {
+            "id": "NZ17D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ17D04",
+          "name": {
+            "local": "Manawatu District",
+            "en": "Manawatu District",
+            "slug": "manawatu-district-nz17d04"
+          },
+          "code": {
+            "id": "NZ17D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ17D05",
+          "name": {
+            "local": "Palmerston North City",
+            "en": "Palmerston North City",
+            "slug": "palmerston-north-city-nz17d05"
+          },
+          "code": {
+            "id": "NZ17D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ17D06",
+          "name": {
+            "local": "Tararua District",
+            "en": "Tararua District",
+            "slug": "tararua-district-nz17d06"
+          },
+          "code": {
+            "id": "NZ17D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "NZ17D07",
+          "name": {
+            "local": "Horowhenua District",
+            "en": "Horowhenua District",
+            "slug": "horowhenua-district-nz17d07"
+          },
+          "code": {
+            "id": "NZ17D07",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

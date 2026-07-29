@@ -1,0 +1,45 @@
+{
+  "id": "NZ05D08",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waimate District",
+    "en": "Waimate District",
+    "slug": "waimate-district-nz05d08"
+  },
+  "code": {
+    "id": "NZ05D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ05",
+    "level": 1,
+    "name": {
+      "local": "Canterbury",
+      "en": "Canterbury",
+      "slug": "canterbury-nz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-44.645",
+    "lon": "170.759"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NZ14D04",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lower Hutt City",
+    "en": "Lower Hutt City",
+    "slug": "lower-hutt-city-nz14d04"
+  },
+  "code": {
+    "id": "NZ14D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ14",
+    "level": 1,
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-nz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.279",
+    "lon": "174.979"
+  },
+  "metadata": {},
+  "source": {}
+}

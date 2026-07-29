@@ -1,0 +1,137 @@
+[
+  {
+    "id": "NZ08D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "New Plymouth District",
+      "en": "New Plymouth District",
+      "slug": "new-plymouth-district-nz08d03"
+    },
+    "code": {
+      "id": "NZ08D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ08",
+      "level": 1,
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ08",
+        "level": 1,
+        "name": {
+          "local": "Taranaki",
+          "en": "Taranaki",
+          "slug": "taranaki-nz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.114",
+      "lon": "174.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ08D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Taranaki District",
+      "en": "South Taranaki District",
+      "slug": "south-taranaki-district-nz08d02"
+    },
+    "code": {
+      "id": "NZ08D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ08",
+      "level": 1,
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ08",
+        "level": 1,
+        "name": {
+          "local": "Taranaki",
+          "en": "Taranaki",
+          "slug": "taranaki-nz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.594",
+      "lon": "174.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ08D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stratford District",
+      "en": "Stratford District",
+      "slug": "stratford-district-nz08d01"
+    },
+    "code": {
+      "id": "NZ08D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ08",
+      "level": 1,
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ08",
+        "level": 1,
+        "name": {
+          "local": "Taranaki",
+          "en": "Taranaki",
+          "slug": "taranaki-nz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.24",
+      "lon": "174.63"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

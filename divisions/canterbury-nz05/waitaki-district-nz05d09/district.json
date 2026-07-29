@@ -1,0 +1,45 @@
+{
+  "id": "NZ05D09",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waitaki District",
+    "en": "Waitaki District",
+    "slug": "waitaki-district-nz05d09"
+  },
+  "code": {
+    "id": "NZ05D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ05",
+    "level": 1,
+    "name": {
+      "local": "Canterbury",
+      "en": "Canterbury",
+      "slug": "canterbury-nz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-45.051",
+    "lon": "170.638"
+  },
+  "metadata": {},
+  "source": {}
+}

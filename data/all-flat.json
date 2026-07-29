@@ -1,0 +1,566 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/nz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/new-zealand-administrative-divisions",
+  "data": [
+    {
+      "id": "NZ01",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      },
+      "code": {
+        "id": "NZ01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-35.363",
+        "lon": "173.761"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/northland-nz01/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ02",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Nelson",
+        "en": "Nelson",
+        "slug": "nelson-nz02"
+      },
+      "code": {
+        "id": "NZ02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-41.104",
+        "lon": "173.414"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/nelson-nz02/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ03",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-nz03"
+      },
+      "code": {
+        "id": "NZ03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-42.324",
+        "lon": "171.531"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/west-coast-nz03/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ04",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      },
+      "code": {
+        "id": "NZ04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-38.089",
+        "lon": "176.88"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/bay-of-plenty-nz04/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ05",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      },
+      "code": {
+        "id": "NZ05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-43.632",
+        "lon": "171.638"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/canterbury-nz05/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ06",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Marlborough",
+        "en": "Marlborough",
+        "slug": "marlborough-nz06"
+      },
+      "code": {
+        "id": "NZ06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-41.448",
+        "lon": "173.932"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/marlborough-nz06/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ07",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      },
+      "code": {
+        "id": "NZ07",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-39.532",
+        "lon": "176.763"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/hawke-s-bay-nz07/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ08",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      },
+      "code": {
+        "id": "NZ08",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-39.318",
+        "lon": "174.218"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/taranaki-nz08/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ09",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      },
+      "code": {
+        "id": "NZ09",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-45.745",
+        "lon": "169.859"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/otago-nz09/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ10",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      },
+      "code": {
+        "id": "NZ10",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-45.633",
+        "lon": "167.504"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/southland-nz10/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ11",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Chatham Islands",
+        "en": "Chatham Islands",
+        "slug": "chatham-islands-nz11"
+      },
+      "code": {
+        "id": "NZ11",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-44.078",
+        "lon": "-176.323"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/chatham-islands-nz11/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ12",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Tasman",
+        "en": "Tasman",
+        "slug": "tasman-nz12"
+      },
+      "code": {
+        "id": "NZ12",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-40.743",
+        "lon": "172.845"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/tasman-nz12/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ13",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      },
+      "code": {
+        "id": "NZ13",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-37.878",
+        "lon": "175.238"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/waikato-nz13/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ14",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      },
+      "code": {
+        "id": "NZ14",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-41.281",
+        "lon": "175.329"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/wellington-nz14/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ15",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Gisborne",
+        "en": "Gisborne",
+        "slug": "gisborne-nz15"
+      },
+      "code": {
+        "id": "NZ15",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-38.34",
+        "lon": "178.198"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/gisborne-nz15/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ16",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Auckland",
+        "en": "Auckland",
+        "slug": "auckland-nz16"
+      },
+      "code": {
+        "id": "NZ16",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-36.716",
+        "lon": "174.685"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/auckland-nz16/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    },
+    {
+      "id": "NZ17",
+      "level": 1,
+      "level_name": {
+        "local": "Region",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      },
+      "code": {
+        "id": "NZ17",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-39.855",
+        "lon": "175.539"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/nz/regions/manawatu-wanganui-nz17/",
+        "api": "https://openadmindata.org/api/nz/"
+      }
+    }
+  ]
+}

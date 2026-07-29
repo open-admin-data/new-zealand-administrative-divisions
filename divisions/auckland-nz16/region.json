@@ -1,0 +1,33 @@
+{
+  "id": "NZ16",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Auckland",
+    "en": "Auckland",
+    "slug": "auckland-nz16"
+  },
+  "code": {
+    "id": "NZ16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-36.716",
+    "lon": "174.685"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/auckland-nz16/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

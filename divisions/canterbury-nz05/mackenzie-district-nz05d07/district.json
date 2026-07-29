@@ -1,0 +1,45 @@
+{
+  "id": "NZ05D07",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mackenzie District",
+    "en": "Mackenzie District",
+    "slug": "mackenzie-district-nz05d07"
+  },
+  "code": {
+    "id": "NZ05D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ05",
+    "level": 1,
+    "name": {
+      "local": "Canterbury",
+      "en": "Canterbury",
+      "slug": "canterbury-nz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-43.982",
+    "lon": "170.378"
+  },
+  "metadata": {},
+  "source": {}
+}

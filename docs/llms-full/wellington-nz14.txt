@@ -1,0 +1,49 @@
+# Wellington — New Zealand Administrative Divisions
+
+> 8 districts
+> Code: NZ14
+> Coordinates: -41.281, 175.329
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Carterton District
+
+Code: NZ14D07, Coordinates: -41.142, 175.65
+
+
+### Kapiti Coast District
+
+Code: NZ14D01, Coordinates: -40.865, 175.194
+
+
+### Lower Hutt City
+
+Code: NZ14D04, Coordinates: -41.279, 174.979
+
+
+### Masterton District
+
+Code: NZ14D06, Coordinates: -40.937, 175.925
+
+
+### Porirua City
+
+Code: NZ14D02, Coordinates: -41.059, 174.925
+
+
+### South Wairarapa District
+
+Code: NZ14D08, Coordinates: -41.327, 175.392
+
+
+### Upper Hutt City
+
+Code: NZ14D03, Coordinates: -41.082, 175.115
+
+
+### Wellington City
+
+Code: NZ14D05, Coordinates: -41.287, 174.717
+
+

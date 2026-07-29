@@ -1,0 +1,33 @@
+{
+  "id": "NZ07",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Hawke's Bay",
+    "en": "Hawke's Bay",
+    "slug": "hawke-s-bay-nz07"
+  },
+  "code": {
+    "id": "NZ07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-39.532",
+    "lon": "176.763"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/hawke-s-bay-nz07/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

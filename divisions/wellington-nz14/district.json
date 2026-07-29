@@ -1,0 +1,362 @@
+[
+  {
+    "id": "NZ14D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Carterton District",
+      "en": "Carterton District",
+      "slug": "carterton-district-nz14d07"
+    },
+    "code": {
+      "id": "NZ14D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.142",
+      "lon": "175.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kapiti Coast District",
+      "en": "Kapiti Coast District",
+      "slug": "kapiti-coast-district-nz14d01"
+    },
+    "code": {
+      "id": "NZ14D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.865",
+      "lon": "175.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Hutt City",
+      "en": "Lower Hutt City",
+      "slug": "lower-hutt-city-nz14d04"
+    },
+    "code": {
+      "id": "NZ14D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.279",
+      "lon": "174.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masterton District",
+      "en": "Masterton District",
+      "slug": "masterton-district-nz14d06"
+    },
+    "code": {
+      "id": "NZ14D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.937",
+      "lon": "175.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Porirua City",
+      "en": "Porirua City",
+      "slug": "porirua-city-nz14d02"
+    },
+    "code": {
+      "id": "NZ14D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.059",
+      "lon": "174.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D08",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Wairarapa District",
+      "en": "South Wairarapa District",
+      "slug": "south-wairarapa-district-nz14d08"
+    },
+    "code": {
+      "id": "NZ14D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.327",
+      "lon": "175.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Hutt City",
+      "en": "Upper Hutt City",
+      "slug": "upper-hutt-city-nz14d03"
+    },
+    "code": {
+      "id": "NZ14D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.082",
+      "lon": "175.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wellington City",
+      "en": "Wellington City",
+      "slug": "wellington-city-nz14d05"
+    },
+    "code": {
+      "id": "NZ14D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.287",
+      "lon": "174.717"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

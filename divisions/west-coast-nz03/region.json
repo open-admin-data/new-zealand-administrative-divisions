@@ -1,0 +1,33 @@
+{
+  "id": "NZ03",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "West Coast",
+    "en": "West Coast",
+    "slug": "west-coast-nz03"
+  },
+  "code": {
+    "id": "NZ03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-42.324",
+    "lon": "171.531"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/west-coast-nz03/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

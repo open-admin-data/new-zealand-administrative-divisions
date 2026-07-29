@@ -1,0 +1,45 @@
+{
+  "id": "NZ15D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gisborne District",
+    "en": "Gisborne District",
+    "slug": "gisborne-district-nz15d01"
+  },
+  "code": {
+    "id": "NZ15D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ15",
+    "level": 1,
+    "name": {
+      "local": "Gisborne",
+      "en": "Gisborne",
+      "slug": "gisborne-nz15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ15",
+      "level": 1,
+      "name": {
+        "local": "Gisborne",
+        "en": "Gisborne",
+        "slug": "gisborne-nz15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.39",
+    "lon": "177.921"
+  },
+  "metadata": {},
+  "source": {}
+}

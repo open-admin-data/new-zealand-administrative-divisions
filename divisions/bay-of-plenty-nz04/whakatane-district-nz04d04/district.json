@@ -1,0 +1,45 @@
+{
+  "id": "NZ04D04",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Whakatane District",
+    "en": "Whakatane District",
+    "slug": "whakatane-district-nz04d04"
+  },
+  "code": {
+    "id": "NZ04D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ04",
+    "level": 1,
+    "name": {
+      "local": "Bay of Plenty",
+      "en": "Bay of Plenty",
+      "slug": "bay-of-plenty-nz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.357",
+    "lon": "176.881"
+  },
+  "metadata": {},
+  "source": {}
+}

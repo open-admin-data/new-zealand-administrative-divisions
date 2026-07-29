@@ -1,0 +1,14 @@
+# Tasman — New Zealand Administrative Divisions
+
+> 1 districts
+> Code: NZ12
+> Coordinates: -40.743, 172.845
+> Last updated: 2026-07-29. License: CC-BY-4.0.
+
+## Districts
+
+### Tasman District
+
+Code: NZ12D01, Coordinates: -41.673, 172.638
+
+

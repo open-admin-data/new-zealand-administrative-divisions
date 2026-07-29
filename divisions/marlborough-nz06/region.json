@@ -1,0 +1,33 @@
+{
+  "id": "NZ06",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Marlborough",
+    "en": "Marlborough",
+    "slug": "marlborough-nz06"
+  },
+  "code": {
+    "id": "NZ06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.448",
+    "lon": "173.932"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/marlborough-nz06/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

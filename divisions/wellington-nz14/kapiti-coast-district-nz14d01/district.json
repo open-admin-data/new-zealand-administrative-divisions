@@ -1,0 +1,45 @@
+{
+  "id": "NZ14D01",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kapiti Coast District",
+    "en": "Kapiti Coast District",
+    "slug": "kapiti-coast-district-nz14d01"
+  },
+  "code": {
+    "id": "NZ14D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ14",
+    "level": 1,
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-nz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.865",
+    "lon": "175.194"
+  },
+  "metadata": {},
+  "source": {}
+}

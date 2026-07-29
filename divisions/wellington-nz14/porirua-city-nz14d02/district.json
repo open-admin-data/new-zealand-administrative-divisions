@@ -1,0 +1,45 @@
+{
+  "id": "NZ14D02",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Porirua City",
+    "en": "Porirua City",
+    "slug": "porirua-city-nz14d02"
+  },
+  "code": {
+    "id": "NZ14D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ14",
+    "level": 1,
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-nz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.059",
+    "lon": "174.925"
+  },
+  "metadata": {},
+  "source": {}
+}

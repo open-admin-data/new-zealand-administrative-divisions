@@ -1,0 +1,33 @@
+{
+  "id": "NZ12",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tasman",
+    "en": "Tasman",
+    "slug": "tasman-nz12"
+  },
+  "code": {
+    "id": "NZ12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.743",
+    "lon": "172.845"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/nz/regions/tasman-nz12/",
+    "api": "https://openadmindata.org/api/nz/"
+  }
+}

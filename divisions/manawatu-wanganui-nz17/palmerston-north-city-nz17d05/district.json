@@ -1,0 +1,45 @@
+{
+  "id": "NZ17D05",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Palmerston North City",
+    "en": "Palmerston North City",
+    "slug": "palmerston-north-city-nz17d05"
+  },
+  "code": {
+    "id": "NZ17D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ17",
+    "level": 1,
+    "name": {
+      "local": "Manawatu-Wanganui",
+      "en": "Manawatu-Wanganui",
+      "slug": "manawatu-wanganui-nz17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.382",
+    "lon": "175.64"
+  },
+  "metadata": {},
+  "source": {}
+}

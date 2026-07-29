@@ -1,0 +1,3062 @@
+[
+  {
+    "id": "NZ01D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Far North District",
+      "en": "Far North District",
+      "slug": "far-north-district-nz01d01"
+    },
+    "code": {
+      "id": "NZ01D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ01",
+      "level": 1,
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ01",
+        "level": 1,
+        "name": {
+          "local": "Northland",
+          "en": "Northland",
+          "slug": "northland-nz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.385",
+      "lon": "173.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ01D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Whangarei District",
+      "en": "Whangarei District",
+      "slug": "whangarei-district-nz01d02"
+    },
+    "code": {
+      "id": "NZ01D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ01",
+      "level": 1,
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ01",
+        "level": 1,
+        "name": {
+          "local": "Northland",
+          "en": "Northland",
+          "slug": "northland-nz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.696",
+      "lon": "174.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ01D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaipara District",
+      "en": "Kaipara District",
+      "slug": "kaipara-district-nz01d03"
+    },
+    "code": {
+      "id": "NZ01D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ01",
+      "level": 1,
+      "name": {
+        "local": "Northland",
+        "en": "Northland",
+        "slug": "northland-nz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ01",
+        "level": 1,
+        "name": {
+          "local": "Northland",
+          "en": "Northland",
+          "slug": "northland-nz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.915",
+      "lon": "173.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thames-Coromandel District",
+      "en": "Thames-Coromandel District",
+      "slug": "thames-coromandel-district-nz13d01"
+    },
+    "code": {
+      "id": "NZ13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.043",
+      "lon": "175.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hauraki District",
+      "en": "Hauraki District",
+      "slug": "hauraki-district-nz13d02"
+    },
+    "code": {
+      "id": "NZ13D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.314",
+      "lon": "175.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waikato District",
+      "en": "Waikato District",
+      "slug": "waikato-district-nz13d03"
+    },
+    "code": {
+      "id": "NZ13D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.482",
+      "lon": "175.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Matamata-Piako District",
+      "en": "Matamata-Piako District",
+      "slug": "matamata-piako-district-nz13d04"
+    },
+    "code": {
+      "id": "NZ13D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.673",
+      "lon": "175.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hamilton City",
+      "en": "Hamilton City",
+      "slug": "hamilton-city-nz13d05"
+    },
+    "code": {
+      "id": "NZ13D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.771",
+      "lon": "175.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waipa District",
+      "en": "Waipa District",
+      "slug": "waipa-district-nz13d06"
+    },
+    "code": {
+      "id": "NZ13D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.983",
+      "lon": "175.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Otorohanga District",
+      "en": "Otorohanga District",
+      "slug": "otorohanga-district-nz13d07"
+    },
+    "code": {
+      "id": "NZ13D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.197",
+      "lon": "175.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D08",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Waikato District",
+      "en": "South Waikato District",
+      "slug": "south-waikato-district-nz13d08"
+    },
+    "code": {
+      "id": "NZ13D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.195",
+      "lon": "175.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D09",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waitomo District",
+      "en": "Waitomo District",
+      "slug": "waitomo-district-nz13d09"
+    },
+    "code": {
+      "id": "NZ13D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.43",
+      "lon": "174.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ13D10",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taupo District",
+      "en": "Taupo District",
+      "slug": "taupo-district-nz13d10"
+    },
+    "code": {
+      "id": "NZ13D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ13",
+      "level": 1,
+      "name": {
+        "local": "Waikato",
+        "en": "Waikato",
+        "slug": "waikato-nz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ13",
+        "level": 1,
+        "name": {
+          "local": "Waikato",
+          "en": "Waikato",
+          "slug": "waikato-nz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.811",
+      "lon": "175.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Western Bay of Plenty District",
+      "en": "Western Bay of Plenty District",
+      "slug": "western-bay-of-plenty-district-nz04d01"
+    },
+    "code": {
+      "id": "NZ04D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.838",
+      "lon": "176.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tauranga City",
+      "en": "Tauranga City",
+      "slug": "tauranga-city-nz04d02"
+    },
+    "code": {
+      "id": "NZ04D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.731",
+      "lon": "176.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rotorua District",
+      "en": "Rotorua District",
+      "slug": "rotorua-district-nz04d03"
+    },
+    "code": {
+      "id": "NZ04D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.233",
+      "lon": "176.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Whakatane District",
+      "en": "Whakatane District",
+      "slug": "whakatane-district-nz04d04"
+    },
+    "code": {
+      "id": "NZ04D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.357",
+      "lon": "176.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ08D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stratford District",
+      "en": "Stratford District",
+      "slug": "stratford-district-nz08d01"
+    },
+    "code": {
+      "id": "NZ08D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ08",
+      "level": 1,
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ08",
+        "level": 1,
+        "name": {
+          "local": "Taranaki",
+          "en": "Taranaki",
+          "slug": "taranaki-nz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.24",
+      "lon": "174.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ08D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Taranaki District",
+      "en": "South Taranaki District",
+      "slug": "south-taranaki-district-nz08d02"
+    },
+    "code": {
+      "id": "NZ08D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ08",
+      "level": 1,
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ08",
+        "level": 1,
+        "name": {
+          "local": "Taranaki",
+          "en": "Taranaki",
+          "slug": "taranaki-nz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.594",
+      "lon": "174.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ruapehu District",
+      "en": "Ruapehu District",
+      "slug": "ruapehu-district-nz17d01"
+    },
+    "code": {
+      "id": "NZ17D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.111",
+      "lon": "175.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Whanganui District",
+      "en": "Whanganui District",
+      "slug": "whanganui-district-nz17d02"
+    },
+    "code": {
+      "id": "NZ17D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.762",
+      "lon": "175.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rangitikei District",
+      "en": "Rangitikei District",
+      "slug": "rangitikei-district-nz17d03"
+    },
+    "code": {
+      "id": "NZ17D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.723",
+      "lon": "175.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manawatu District",
+      "en": "Manawatu District",
+      "slug": "manawatu-district-nz17d04"
+    },
+    "code": {
+      "id": "NZ17D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.124",
+      "lon": "175.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Palmerston North City",
+      "en": "Palmerston North City",
+      "slug": "palmerston-north-city-nz17d05"
+    },
+    "code": {
+      "id": "NZ17D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.382",
+      "lon": "175.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tararua District",
+      "en": "Tararua District",
+      "slug": "tararua-district-nz17d06"
+    },
+    "code": {
+      "id": "NZ17D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.394",
+      "lon": "176.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ08D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "New Plymouth District",
+      "en": "New Plymouth District",
+      "slug": "new-plymouth-district-nz08d03"
+    },
+    "code": {
+      "id": "NZ08D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ08",
+      "level": 1,
+      "name": {
+        "local": "Taranaki",
+        "en": "Taranaki",
+        "slug": "taranaki-nz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ08",
+        "level": 1,
+        "name": {
+          "local": "Taranaki",
+          "en": "Taranaki",
+          "slug": "taranaki-nz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.114",
+      "lon": "174.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ17D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Horowhenua District",
+      "en": "Horowhenua District",
+      "slug": "horowhenua-district-nz17d07"
+    },
+    "code": {
+      "id": "NZ17D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ17",
+      "level": 1,
+      "name": {
+        "local": "Manawatu-Wanganui",
+        "en": "Manawatu-Wanganui",
+        "slug": "manawatu-wanganui-nz17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ17",
+        "level": 1,
+        "name": {
+          "local": "Manawatu-Wanganui",
+          "en": "Manawatu-Wanganui",
+          "slug": "manawatu-wanganui-nz17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.574",
+      "lon": "175.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kapiti Coast District",
+      "en": "Kapiti Coast District",
+      "slug": "kapiti-coast-district-nz14d01"
+    },
+    "code": {
+      "id": "NZ14D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.865",
+      "lon": "175.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Porirua City",
+      "en": "Porirua City",
+      "slug": "porirua-city-nz14d02"
+    },
+    "code": {
+      "id": "NZ14D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.059",
+      "lon": "174.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawerau District",
+      "en": "Kawerau District",
+      "slug": "kawerau-district-nz04d05"
+    },
+    "code": {
+      "id": "NZ04D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.095",
+      "lon": "176.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Opotiki District",
+      "en": "Opotiki District",
+      "slug": "opotiki-district-nz04d06"
+    },
+    "code": {
+      "id": "NZ04D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.874",
+      "lon": "177.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ15D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gisborne District",
+      "en": "Gisborne District",
+      "slug": "gisborne-district-nz15d01"
+    },
+    "code": {
+      "id": "NZ15D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ15",
+      "level": 1,
+      "name": {
+        "local": "Gisborne",
+        "en": "Gisborne",
+        "slug": "gisborne-nz15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ15",
+        "level": 1,
+        "name": {
+          "local": "Gisborne",
+          "en": "Gisborne",
+          "slug": "gisborne-nz15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.39",
+      "lon": "177.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ07D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wairoa District",
+      "en": "Wairoa District",
+      "slug": "wairoa-district-nz07d01"
+    },
+    "code": {
+      "id": "NZ07D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.868",
+      "lon": "177.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ07D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hastings District",
+      "en": "Hastings District",
+      "slug": "hastings-district-nz07d02"
+    },
+    "code": {
+      "id": "NZ07D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.357",
+      "lon": "176.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ07D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Napier City",
+      "en": "Napier City",
+      "slug": "napier-city-nz07d03"
+    },
+    "code": {
+      "id": "NZ07D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.52",
+      "lon": "176.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ07D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Hawke's Bay District",
+      "en": "Central Hawke's Bay District",
+      "slug": "central-hawke-s-bay-district-nz07d04"
+    },
+    "code": {
+      "id": "NZ07D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ07",
+      "level": 1,
+      "name": {
+        "local": "Hawke's Bay",
+        "en": "Hawke's Bay",
+        "slug": "hawke-s-bay-nz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ07",
+        "level": 1,
+        "name": {
+          "local": "Hawke's Bay",
+          "en": "Hawke's Bay",
+          "slug": "hawke-s-bay-nz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.016",
+      "lon": "176.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Hutt City",
+      "en": "Upper Hutt City",
+      "slug": "upper-hutt-city-nz14d03"
+    },
+    "code": {
+      "id": "NZ14D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.082",
+      "lon": "175.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Hutt City",
+      "en": "Lower Hutt City",
+      "slug": "lower-hutt-city-nz14d04"
+    },
+    "code": {
+      "id": "NZ14D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.279",
+      "lon": "174.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wellington City",
+      "en": "Wellington City",
+      "slug": "wellington-city-nz14d05"
+    },
+    "code": {
+      "id": "NZ14D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.287",
+      "lon": "174.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masterton District",
+      "en": "Masterton District",
+      "slug": "masterton-district-nz14d06"
+    },
+    "code": {
+      "id": "NZ14D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.937",
+      "lon": "175.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Carterton District",
+      "en": "Carterton District",
+      "slug": "carterton-district-nz14d07"
+    },
+    "code": {
+      "id": "NZ14D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.142",
+      "lon": "175.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ14D08",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Wairarapa District",
+      "en": "South Wairarapa District",
+      "slug": "south-wairarapa-district-nz14d08"
+    },
+    "code": {
+      "id": "NZ14D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ14",
+        "level": 1,
+        "name": {
+          "local": "Wellington",
+          "en": "Wellington",
+          "slug": "wellington-nz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.327",
+      "lon": "175.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ12D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tasman District",
+      "en": "Tasman District",
+      "slug": "tasman-district-nz12d01"
+    },
+    "code": {
+      "id": "NZ12D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ12",
+      "level": 1,
+      "name": {
+        "local": "Tasman",
+        "en": "Tasman",
+        "slug": "tasman-nz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ12",
+        "level": 1,
+        "name": {
+          "local": "Tasman",
+          "en": "Tasman",
+          "slug": "tasman-nz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.673",
+      "lon": "172.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ02D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nelson City",
+      "en": "Nelson City",
+      "slug": "nelson-city-nz02d01"
+    },
+    "code": {
+      "id": "NZ02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ02",
+      "level": 1,
+      "name": {
+        "local": "Nelson",
+        "en": "Nelson",
+        "slug": "nelson-nz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ02",
+        "level": 1,
+        "name": {
+          "local": "Nelson",
+          "en": "Nelson",
+          "slug": "nelson-nz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.235",
+      "lon": "173.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ06D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marlborough District",
+      "en": "Marlborough District",
+      "slug": "marlborough-district-nz06d01"
+    },
+    "code": {
+      "id": "NZ06D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ06",
+      "level": 1,
+      "name": {
+        "local": "Marlborough",
+        "en": "Marlborough",
+        "slug": "marlborough-nz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ06",
+        "level": 1,
+        "name": {
+          "local": "Marlborough",
+          "en": "Marlborough",
+          "slug": "marlborough-nz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.713",
+      "lon": "173.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaikoura District",
+      "en": "Kaikoura District",
+      "slug": "kaikoura-district-nz05d01"
+    },
+    "code": {
+      "id": "NZ05D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.157",
+      "lon": "173.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ03D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buller District",
+      "en": "Buller District",
+      "slug": "buller-district-nz03d01"
+    },
+    "code": {
+      "id": "NZ03D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-nz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-nz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.946",
+      "lon": "171.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ03D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Grey District",
+      "en": "Grey District",
+      "slug": "grey-district-nz03d02"
+    },
+    "code": {
+      "id": "NZ03D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-nz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-nz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.509",
+      "lon": "171.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ03D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Westland District",
+      "en": "Westland District",
+      "slug": "westland-district-nz03d03"
+    },
+    "code": {
+      "id": "NZ03D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-nz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-nz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.707",
+      "lon": "169.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hurunui District",
+      "en": "Hurunui District",
+      "slug": "hurunui-district-nz05d02"
+    },
+    "code": {
+      "id": "NZ05D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.726",
+      "lon": "172.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waimakariri District",
+      "en": "Waimakariri District",
+      "slug": "waimakariri-district-nz05d03"
+    },
+    "code": {
+      "id": "NZ05D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.239",
+      "lon": "172.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selwyn District",
+      "en": "Selwyn District",
+      "slug": "selwyn-district-nz05d04"
+    },
+    "code": {
+      "id": "NZ05D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.153",
+      "lon": "171.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D05",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ashburton District",
+      "en": "Ashburton District",
+      "slug": "ashburton-district-nz05d05"
+    },
+    "code": {
+      "id": "NZ05D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.78",
+      "lon": "171.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D06",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Timaru District",
+      "en": "Timaru District",
+      "slug": "timaru-district-nz05d06"
+    },
+    "code": {
+      "id": "NZ05D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-44.152",
+      "lon": "171.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mackenzie District",
+      "en": "Mackenzie District",
+      "slug": "mackenzie-district-nz05d07"
+    },
+    "code": {
+      "id": "NZ05D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.982",
+      "lon": "170.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D08",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waimate District",
+      "en": "Waimate District",
+      "slug": "waimate-district-nz05d08"
+    },
+    "code": {
+      "id": "NZ05D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-44.645",
+      "lon": "170.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D09",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waitaki District",
+      "en": "Waitaki District",
+      "slug": "waitaki-district-nz05d09"
+    },
+    "code": {
+      "id": "NZ05D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.051",
+      "lon": "170.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ09D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Otago District",
+      "en": "Central Otago District",
+      "slug": "central-otago-district-nz09d01"
+    },
+    "code": {
+      "id": "NZ09D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.155",
+      "lon": "169.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ09D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Queenstown-Lakes District",
+      "en": "Queenstown-Lakes District",
+      "slug": "queenstown-lakes-district-nz09d02"
+    },
+    "code": {
+      "id": "NZ09D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-44.742",
+      "lon": "168.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ09D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dunedin City",
+      "en": "Dunedin City",
+      "slug": "dunedin-city-nz09d03"
+    },
+    "code": {
+      "id": "NZ09D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.73",
+      "lon": "170.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ09D04",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Clutha District",
+      "en": "Clutha District",
+      "slug": "clutha-district-nz09d04"
+    },
+    "code": {
+      "id": "NZ09D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ09",
+      "level": 1,
+      "name": {
+        "local": "Otago",
+        "en": "Otago",
+        "slug": "otago-nz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ09",
+        "level": 1,
+        "name": {
+          "local": "Otago",
+          "en": "Otago",
+          "slug": "otago-nz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-46.131",
+      "lon": "169.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ10D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Southland District",
+      "en": "Southland District",
+      "slug": "southland-district-nz10d01"
+    },
+    "code": {
+      "id": "NZ10D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ10",
+        "level": 1,
+        "name": {
+          "local": "Southland",
+          "en": "Southland",
+          "slug": "southland-nz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-45.617",
+      "lon": "167.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ10D02",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gore District",
+      "en": "Gore District",
+      "slug": "gore-district-nz10d02"
+    },
+    "code": {
+      "id": "NZ10D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ10",
+        "level": 1,
+        "name": {
+          "local": "Southland",
+          "en": "Southland",
+          "slug": "southland-nz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-46.087",
+      "lon": "168.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ10D03",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Invercargill City",
+      "en": "Invercargill City",
+      "slug": "invercargill-city-nz10d03"
+    },
+    "code": {
+      "id": "NZ10D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ10",
+        "level": 1,
+        "name": {
+          "local": "Southland",
+          "en": "Southland",
+          "slug": "southland-nz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-46.432",
+      "lon": "168.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ05D10",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Christchurch City",
+      "en": "Christchurch City",
+      "slug": "christchurch-city-nz05d10"
+    },
+    "code": {
+      "id": "NZ05D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ05",
+      "level": 1,
+      "name": {
+        "local": "Canterbury",
+        "en": "Canterbury",
+        "slug": "canterbury-nz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ05",
+        "level": 1,
+        "name": {
+          "local": "Canterbury",
+          "en": "Canterbury",
+          "slug": "canterbury-nz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.737",
+      "lon": "172.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ16D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Auckland",
+      "en": "Auckland",
+      "slug": "auckland-nz16d01"
+    },
+    "code": {
+      "id": "NZ16D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ16",
+      "level": 1,
+      "name": {
+        "local": "Auckland",
+        "en": "Auckland",
+        "slug": "auckland-nz16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ16",
+        "level": 1,
+        "name": {
+          "local": "Auckland",
+          "en": "Auckland",
+          "slug": "auckland-nz16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.379",
+      "lon": "174.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ11D01",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chatham Islands Territory",
+      "en": "Chatham Islands Territory",
+      "slug": "chatham-islands-territory-nz11d01"
+    },
+    "code": {
+      "id": "NZ11D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ11",
+      "level": 1,
+      "name": {
+        "local": "Chatham Islands",
+        "en": "Chatham Islands",
+        "slug": "chatham-islands-nz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ11",
+        "level": 1,
+        "name": {
+          "local": "Chatham Islands",
+          "en": "Chatham Islands",
+          "slug": "chatham-islands-nz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-44.045",
+      "lon": "-176.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NZ04D07",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Area Outside Territorial Authority",
+      "en": "Area Outside Territorial Authority",
+      "slug": "area-outside-territorial-authority-nz04d07"
+    },
+    "code": {
+      "id": "NZ04D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "NZ04",
+      "level": 1,
+      "name": {
+        "local": "Bay of Plenty",
+        "en": "Bay of Plenty",
+        "slug": "bay-of-plenty-nz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NZ04",
+        "level": 1,
+        "name": {
+          "local": "Bay of Plenty",
+          "en": "Bay of Plenty",
+          "slug": "bay-of-plenty-nz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.286",
+      "lon": "176.255"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "NZ14D05",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wellington City",
+    "en": "Wellington City",
+    "slug": "wellington-city-nz14d05"
+  },
+  "code": {
+    "id": "NZ14D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ14",
+    "level": 1,
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-nz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ14",
+      "level": 1,
+      "name": {
+        "local": "Wellington",
+        "en": "Wellington",
+        "slug": "wellington-nz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.287",
+    "lon": "174.717"
+  },
+  "metadata": {},
+  "source": {}
+}

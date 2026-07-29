@@ -1,0 +1,45 @@
+{
+  "id": "NZ10D02",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gore District",
+    "en": "Gore District",
+    "slug": "gore-district-nz10d02"
+  },
+  "code": {
+    "id": "NZ10D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "NZ10",
+    "level": 1,
+    "name": {
+      "local": "Southland",
+      "en": "Southland",
+      "slug": "southland-nz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NZ10",
+      "level": 1,
+      "name": {
+        "local": "Southland",
+        "en": "Southland",
+        "slug": "southland-nz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-46.087",
+    "lon": "168.966"
+  },
+  "metadata": {},
+  "source": {}
+}

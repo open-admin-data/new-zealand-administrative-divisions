@@ -3,7 +3,7 @@
 > 3 districts
 > Code: NZ03
 > Coordinates: -42.324, 171.531
-> Last updated: 2026-07-29. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

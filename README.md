@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-29 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/nz](https://openadmindata.org/nz/) |
 | API | [openadmindata.org/api/nz](https://openadmindata.org/api/nz/) |
+| National Anthem | [🎵 Listen & Download New Zealand National Anthem MP3](https://onlygames.me/national-anthems/nz/) |
 
 ## Browse by Region
 
